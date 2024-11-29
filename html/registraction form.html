@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+         .main{
+            display: inline-block;
+            border: 3px solid black;
+            padding: 20px;
+            margin-top: 30px;
+        }
+        .main label,input{
+            margin: 5px;
+            font-size: 14px;
+        }
+        .main button{
+            border-radius: 20%;
+            padding: 10px 20px;
+            font-size: 16px;
+            margin-top: 10px;
+            background-color: #2177d3;
+            color: white;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+    <center>
+        <div class="main">
+            <h1>Registraction Form</h1>
+            <label >name</label>
+            <input type="text" id="name" placeholder="enter your name">
+            <br>
+            <label >phone</label>
+            <input type="text" id="phone" placeholder="enter your number">
+            <br>
+            <label >email</label>
+            <input type="email" id="email" placeholder="enter your email">
+            <br>
+            <label >password</label>
+            <input type="password" id="password" placeholder="enter your password">
+            <br>
+            <label >country</label>
+            <input type="text" id="country" placeholder="enter your country">
+            <br>
+            <label >city</label>
+            <input type="text" id="city" placeholder="enter your city">
+            <br>
+            <button onclick="task()">Insert data</button>
+            <h1 id="resname"></h1>
+            <h1 id="resphone"></h1>
+            <h1 id="resemail"></h1>
+            <h1 id="respassword"></h1>
+            <h1 id="rescountry"></h1>
+            <h1 id="rescity"></h1>
+        </div>
+       </center>
+    
+    
+</body>
+
+    <script>
+          function task()
+          {
+            var name = document.getElementById("name").value;
+            var phone = document.getElementById("phone").value;
+            var email = document.getElementById("email").value;
+            var password = document.getElementById("password").value;
+            var country = document.getElementById("country").value;
+            var city = document.getElementById("city").value;
+
+            document.getElementById("resname").innerHTML=name;
+            document.getElementById("resphone").innerHTML=phone;
+            document.getElementById("resemail").innerHTML=email;
+            document.getElementById("respassword").innerHTML=password;
+            document.getElementById("rescountry").innerHTML=country;
+            document.getElementById("rescity").innerHTML=city;
+            
+          }
+
+
+
+
+
+
+
+
+   
+    </script>
+
+</html>

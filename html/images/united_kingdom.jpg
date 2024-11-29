@@ -1,0 +1,1307 @@
+<!DOCTYPE HTML>
+<html lang="en-us" itemscope itemtype="http://schema.org/WebPage" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>United Kingdom - A Country Profile - Nations Online Project</title>
+<meta name="keywords" content="United Kingdom of Great Britain and Northern Ireland, United Kingdom, UK, Travel, England, Scotland, Wales, British, British Monarchy, Britons, United Kingdom Government, Capital City United Kingdom, London, United Kingdom News, United Kingdom map, United Kingdom Country Guides, United Kingdom History, United Kingdom Links">
+<meta name="description" content="United Kingdom country facts and figures: Official web sites of the United Kingdom, links and information on UK's art, culture, geography, history, travel and tourism. With city guides, the capital of United Kingdom, airlines, embassies, tourist boards, and newspapers">
+<meta name="author" content="klaus k&auml;stle - nationsonline.org">
+<meta name="robots" content="index,follow">
+
+<meta property="og:title" content="United Kingdom - A Country Profile - Nations Online Project">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.nationsonline.org/oneworld/united_kingdom.htm">
+<meta property="og:image" content="https://www.nationsonline.org/gallery/UK/Palace-of-Westminster-Parliament.jpg">
+<meta property="og:description" content="United Kingdom facts and figures: Official web sites of United Kingdom, links and information on United Kingdom's art, culture, geography, history, travel and tourism, cities, the capital of United Kingdom, airlines, embassies, tourist boards and newspapers.">
+<link rel="canonical" href="https://www.nationsonline.org/oneworld/united_kingdom.htm">
+	
+<meta property="fb:app_id" content="281471825201783">
+
+  <link rel="stylesheet" href="CSS/responsive.css">
+
+<!-- Google Analytics -->
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-J698YT6DWL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-J698YT6DWL');
+</script>
+
+<script async src="https://fundingchoicesmessages.google.com/i/pub-7193398479241689?ers=1" nonce="S9PXqcUFBV6lmnBro6ez1Q"></script><script nonce="S9PXqcUFBV6lmnBro6ez1Q">(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
+
+<script>(function(){'use strict';function aa(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}}var ba="function"==typeof Object.defineProperties?Object.defineProperty:function(a,b,c){if(a==Array.prototype||a==Object.prototype)return a;a[b]=c.value;return a};
+function ea(a){a=["object"==typeof globalThis&&globalThis,a,"object"==typeof window&&window,"object"==typeof self&&self,"object"==typeof global&&global];for(var b=0;b<a.length;++b){var c=a[b];if(c&&c.Math==Math)return c}throw Error("Cannot find global object");}var fa=ea(this);function ha(a,b){if(b)a:{var c=fa;a=a.split(".");for(var d=0;d<a.length-1;d++){var e=a[d];if(!(e in c))break a;c=c[e]}a=a[a.length-1];d=c[a];b=b(d);b!=d&&null!=b&&ba(c,a,{configurable:!0,writable:!0,value:b})}}
+var ia="function"==typeof Object.create?Object.create:function(a){function b(){}b.prototype=a;return new b},l;if("function"==typeof Object.setPrototypeOf)l=Object.setPrototypeOf;else{var m;a:{var ja={a:!0},ka={};try{ka.__proto__=ja;m=ka.a;break a}catch(a){}m=!1}l=m?function(a,b){a.__proto__=b;if(a.__proto__!==b)throw new TypeError(a+" is not extensible");return a}:null}var la=l;
+function n(a,b){a.prototype=ia(b.prototype);a.prototype.constructor=a;if(la)la(a,b);else for(var c in b)if("prototype"!=c)if(Object.defineProperties){var d=Object.getOwnPropertyDescriptor(b,c);d&&Object.defineProperty(a,c,d)}else a[c]=b[c];a.A=b.prototype}function ma(){for(var a=Number(this),b=[],c=a;c<arguments.length;c++)b[c-a]=arguments[c];return b}
+var na="function"==typeof Object.assign?Object.assign:function(a,b){for(var c=1;c<arguments.length;c++){var d=arguments[c];if(d)for(var e in d)Object.prototype.hasOwnProperty.call(d,e)&&(a[e]=d[e])}return a};ha("Object.assign",function(a){return a||na});/*
+
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+var p=this||self;function q(a){return a};var t,u;a:{for(var oa=["CLOSURE_FLAGS"],v=p,x=0;x<oa.length;x++)if(v=v[oa[x]],null==v){u=null;break a}u=v}var pa=u&&u[610401301];t=null!=pa?pa:!1;var z,qa=p.navigator;z=qa?qa.userAgentData||null:null;function A(a){return t?z?z.brands.some(function(b){return(b=b.brand)&&-1!=b.indexOf(a)}):!1:!1}function B(a){var b;a:{if(b=p.navigator)if(b=b.userAgent)break a;b=""}return-1!=b.indexOf(a)};function C(){return t?!!z&&0<z.brands.length:!1}function D(){return C()?A("Chromium"):(B("Chrome")||B("CriOS"))&&!(C()?0:B("Edge"))||B("Silk")};var ra=C()?!1:B("Trident")||B("MSIE");!B("Android")||D();D();B("Safari")&&(D()||(C()?0:B("Coast"))||(C()?0:B("Opera"))||(C()?0:B("Edge"))||(C()?A("Microsoft Edge"):B("Edg/"))||C()&&A("Opera"));var sa={},E=null;var ta="undefined"!==typeof Uint8Array,ua=!ra&&"function"===typeof btoa;var F="function"===typeof Symbol&&"symbol"===typeof Symbol()?Symbol():void 0,G=F?function(a,b){a[F]|=b}:function(a,b){void 0!==a.g?a.g|=b:Object.defineProperties(a,{g:{value:b,configurable:!0,writable:!0,enumerable:!1}})};function va(a){var b=H(a);1!==(b&1)&&(Object.isFrozen(a)&&(a=Array.prototype.slice.call(a)),I(a,b|1))}
+var H=F?function(a){return a[F]|0}:function(a){return a.g|0},J=F?function(a){return a[F]}:function(a){return a.g},I=F?function(a,b){a[F]=b}:function(a,b){void 0!==a.g?a.g=b:Object.defineProperties(a,{g:{value:b,configurable:!0,writable:!0,enumerable:!1}})};function wa(){var a=[];G(a,1);return a}function xa(a,b){I(b,(a|0)&-99)}function K(a,b){I(b,(a|34)&-73)}function L(a){a=a>>11&1023;return 0===a?536870912:a};var M={};function N(a){return null!==a&&"object"===typeof a&&!Array.isArray(a)&&a.constructor===Object}var O,ya=[];I(ya,39);O=Object.freeze(ya);var P;function Q(a,b){P=b;a=new a(b);P=void 0;return a}
+function R(a,b,c){null==a&&(a=P);P=void 0;if(null==a){var d=96;c?(a=[c],d|=512):a=[];b&&(d=d&-2095105|(b&1023)<<11)}else{if(!Array.isArray(a))throw Error();d=H(a);if(d&64)return a;d|=64;if(c&&(d|=512,c!==a[0]))throw Error();a:{c=a;var e=c.length;if(e){var f=e-1,g=c[f];if(N(g)){d|=256;b=(d>>9&1)-1;e=f-b;1024<=e&&(za(c,b,g),e=1023);d=d&-2095105|(e&1023)<<11;break a}}b&&(g=(d>>9&1)-1,b=Math.max(b,e-g),1024<b&&(za(c,g,{}),d|=256,b=1023),d=d&-2095105|(b&1023)<<11)}}I(a,d);return a}
+function za(a,b,c){for(var d=1023+b,e=a.length,f=d;f<e;f++){var g=a[f];null!=g&&g!==c&&(c[f-b]=g)}a.length=d+1;a[d]=c};function Aa(a){switch(typeof a){case "number":return isFinite(a)?a:String(a);case "boolean":return a?1:0;case "object":if(a&&!Array.isArray(a)&&ta&&null!=a&&a instanceof Uint8Array){if(ua){for(var b="",c=0,d=a.length-10240;c<d;)b+=String.fromCharCode.apply(null,a.subarray(c,c+=10240));b+=String.fromCharCode.apply(null,c?a.subarray(c):a);a=btoa(b)}else{void 0===b&&(b=0);if(!E){E={};c="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789".split("");d=["+/=","+/","-_=","-_.","-_"];for(var e=
+0;5>e;e++){var f=c.concat(d[e].split(""));sa[e]=f;for(var g=0;g<f.length;g++){var h=f[g];void 0===E[h]&&(E[h]=g)}}}b=sa[b];c=Array(Math.floor(a.length/3));d=b[64]||"";for(e=f=0;f<a.length-2;f+=3){var k=a[f],w=a[f+1];h=a[f+2];g=b[k>>2];k=b[(k&3)<<4|w>>4];w=b[(w&15)<<2|h>>6];h=b[h&63];c[e++]=g+k+w+h}g=0;h=d;switch(a.length-f){case 2:g=a[f+1],h=b[(g&15)<<2]||d;case 1:a=a[f],c[e]=b[a>>2]+b[(a&3)<<4|g>>4]+h+d}a=c.join("")}return a}}return a};function Ba(a,b,c){a=Array.prototype.slice.call(a);var d=a.length,e=b&256?a[d-1]:void 0;d+=e?-1:0;for(b=b&512?1:0;b<d;b++)a[b]=c(a[b]);if(e){b=a[b]={};for(var f in e)Object.prototype.hasOwnProperty.call(e,f)&&(b[f]=c(e[f]))}return a}function Da(a,b,c,d,e,f){if(null!=a){if(Array.isArray(a))a=e&&0==a.length&&H(a)&1?void 0:f&&H(a)&2?a:Ea(a,b,c,void 0!==d,e,f);else if(N(a)){var g={},h;for(h in a)Object.prototype.hasOwnProperty.call(a,h)&&(g[h]=Da(a[h],b,c,d,e,f));a=g}else a=b(a,d);return a}}
+function Ea(a,b,c,d,e,f){var g=d||c?H(a):0;d=d?!!(g&32):void 0;a=Array.prototype.slice.call(a);for(var h=0;h<a.length;h++)a[h]=Da(a[h],b,c,d,e,f);c&&c(g,a);return a}function Fa(a){return a.s===M?a.toJSON():Aa(a)};function Ga(a,b,c){c=void 0===c?K:c;if(null!=a){if(ta&&a instanceof Uint8Array)return b?a:new Uint8Array(a);if(Array.isArray(a)){var d=H(a);if(d&2)return a;if(b&&!(d&64)&&(d&32||0===d))return I(a,d|34),a;a=Ea(a,Ga,d&4?K:c,!0,!1,!0);b=H(a);b&4&&b&2&&Object.freeze(a);return a}a.s===M&&(b=a.h,c=J(b),a=c&2?a:Q(a.constructor,Ha(b,c,!0)));return a}}function Ha(a,b,c){var d=c||b&2?K:xa,e=!!(b&32);a=Ba(a,b,function(f){return Ga(f,e,d)});G(a,32|(c?2:0));return a};function Ia(a,b){a=a.h;return Ja(a,J(a),b)}function Ja(a,b,c,d){if(-1===c)return null;if(c>=L(b)){if(b&256)return a[a.length-1][c]}else{var e=a.length;if(d&&b&256&&(d=a[e-1][c],null!=d))return d;b=c+((b>>9&1)-1);if(b<e)return a[b]}}function Ka(a,b,c,d,e){var f=L(b);if(c>=f||e){e=b;if(b&256)f=a[a.length-1];else{if(null==d)return;f=a[f+((b>>9&1)-1)]={};e|=256}f[c]=d;e&=-1025;e!==b&&I(a,e)}else a[c+((b>>9&1)-1)]=d,b&256&&(d=a[a.length-1],c in d&&delete d[c]),b&1024&&I(a,b&-1025)}
+function La(a,b){var c=Ma;var d=void 0===d?!1:d;var e=a.h;var f=J(e),g=Ja(e,f,b,d);var h=!1;if(null==g||"object"!==typeof g||(h=Array.isArray(g))||g.s!==M)if(h){var k=h=H(g);0===k&&(k|=f&32);k|=f&2;k!==h&&I(g,k);c=new c(g)}else c=void 0;else c=g;c!==g&&null!=c&&Ka(e,f,b,c,d);e=c;if(null==e)return e;a=a.h;f=J(a);f&2||(g=e,c=g.h,h=J(c),g=h&2?Q(g.constructor,Ha(c,h,!1)):g,g!==e&&(e=g,Ka(a,f,b,e,d)));return e}function Na(a,b){a=Ia(a,b);return null==a||"string"===typeof a?a:void 0}
+function Oa(a,b){a=Ia(a,b);return null!=a?a:0}function S(a,b){a=Na(a,b);return null!=a?a:""};function T(a,b,c){this.h=R(a,b,c)}T.prototype.toJSON=function(){var a=Ea(this.h,Fa,void 0,void 0,!1,!1);return Pa(this,a,!0)};T.prototype.s=M;T.prototype.toString=function(){return Pa(this,this.h,!1).toString()};
+function Pa(a,b,c){var d=a.constructor.v,e=L(J(c?a.h:b)),f=!1;if(d){if(!c){b=Array.prototype.slice.call(b);var g;if(b.length&&N(g=b[b.length-1]))for(f=0;f<d.length;f++)if(d[f]>=e){Object.assign(b[b.length-1]={},g);break}f=!0}e=b;c=!c;g=J(a.h);a=L(g);g=(g>>9&1)-1;for(var h,k,w=0;w<d.length;w++)if(k=d[w],k<a){k+=g;var r=e[k];null==r?e[k]=c?O:wa():c&&r!==O&&va(r)}else h||(r=void 0,e.length&&N(r=e[e.length-1])?h=r:e.push(h={})),r=h[k],null==h[k]?h[k]=c?O:wa():c&&r!==O&&va(r)}d=b.length;if(!d)return b;
+var Ca;if(N(h=b[d-1])){a:{var y=h;e={};c=!1;for(var ca in y)Object.prototype.hasOwnProperty.call(y,ca)&&(a=y[ca],Array.isArray(a)&&a!=a&&(c=!0),null!=a?e[ca]=a:c=!0);if(c){for(var rb in e){y=e;break a}y=null}}y!=h&&(Ca=!0);d--}for(;0<d;d--){h=b[d-1];if(null!=h)break;var cb=!0}if(!Ca&&!cb)return b;var da;f?da=b:da=Array.prototype.slice.call(b,0,d);b=da;f&&(b.length=d);y&&b.push(y);return b};function Qa(a){return function(b){if(null==b||""==b)b=new a;else{b=JSON.parse(b);if(!Array.isArray(b))throw Error(void 0);G(b,32);b=Q(a,b)}return b}};function Ra(a){this.h=R(a)}n(Ra,T);var Sa=Qa(Ra);var U;function V(a){this.g=a}V.prototype.toString=function(){return this.g+""};var Ta={};function Ua(){return Math.floor(2147483648*Math.random()).toString(36)+Math.abs(Math.floor(2147483648*Math.random())^Date.now()).toString(36)};function Va(a,b){b=String(b);"application/xhtml+xml"===a.contentType&&(b=b.toLowerCase());return a.createElement(b)}function Wa(a){this.g=a||p.document||document}Wa.prototype.appendChild=function(a,b){a.appendChild(b)};/*
+
+ SPDX-License-Identifier: Apache-2.0
+*/
+function Xa(a,b){a.src=b instanceof V&&b.constructor===V?b.g:"type_error:TrustedResourceUrl";var c,d;(c=(b=null==(d=(c=(a.ownerDocument&&a.ownerDocument.defaultView||window).document).querySelector)?void 0:d.call(c,"script[nonce]"))?b.nonce||b.getAttribute("nonce")||"":"")&&a.setAttribute("nonce",c)};function Ya(a){a=void 0===a?document:a;return a.createElement("script")};function Za(a,b,c,d,e,f){try{var g=a.g,h=Ya(g);h.async=!0;Xa(h,b);g.head.appendChild(h);h.addEventListener("load",function(){e();d&&g.head.removeChild(h)});h.addEventListener("error",function(){0<c?Za(a,b,c-1,d,e,f):(d&&g.head.removeChild(h),f())})}catch(k){f()}};var $a=p.atob("aHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vaW1hZ2VzL2ljb25zL21hdGVyaWFsL3N5c3RlbS8xeC93YXJuaW5nX2FtYmVyXzI0ZHAucG5n"),ab=p.atob("WW91IGFyZSBzZWVpbmcgdGhpcyBtZXNzYWdlIGJlY2F1c2UgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlIGlzIGludGVyZmVyaW5nIHdpdGggdGhpcyBwYWdlLg=="),bb=p.atob("RGlzYWJsZSBhbnkgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlLCB0aGVuIHJlbG9hZCB0aGlzIHBhZ2Uu");function db(a,b,c){this.i=a;this.l=new Wa(this.i);this.g=null;this.j=[];this.m=!1;this.u=b;this.o=c}
+function eb(a){if(a.i.body&&!a.m){var b=function(){fb(a);p.setTimeout(function(){return gb(a,3)},50)};Za(a.l,a.u,2,!0,function(){p[a.o]||b()},b);a.m=!0}}
+function fb(a){for(var b=W(1,5),c=0;c<b;c++){var d=X(a);a.i.body.appendChild(d);a.j.push(d)}b=X(a);b.style.bottom="0";b.style.left="0";b.style.position="fixed";b.style.width=W(100,110).toString()+"%";b.style.zIndex=W(2147483544,2147483644).toString();b.style["background-color"]=hb(249,259,242,252,219,229);b.style["box-shadow"]="0 0 12px #888";b.style.color=hb(0,10,0,10,0,10);b.style.display="flex";b.style["justify-content"]="center";b.style["font-family"]="Roboto, Arial";c=X(a);c.style.width=W(80,
+85).toString()+"%";c.style.maxWidth=W(750,775).toString()+"px";c.style.margin="24px";c.style.display="flex";c.style["align-items"]="flex-start";c.style["justify-content"]="center";d=Va(a.l.g,"IMG");d.className=Ua();d.src=$a;d.alt="Warning icon";d.style.height="24px";d.style.width="24px";d.style["padding-right"]="16px";var e=X(a),f=X(a);f.style["font-weight"]="bold";f.textContent=ab;var g=X(a);g.textContent=bb;Y(a,e,f);Y(a,e,g);Y(a,c,d);Y(a,c,e);Y(a,b,c);a.g=b;a.i.body.appendChild(a.g);b=W(1,5);for(c=
+0;c<b;c++)d=X(a),a.i.body.appendChild(d),a.j.push(d)}function Y(a,b,c){for(var d=W(1,5),e=0;e<d;e++){var f=X(a);b.appendChild(f)}b.appendChild(c);c=W(1,5);for(d=0;d<c;d++)e=X(a),b.appendChild(e)}function W(a,b){return Math.floor(a+Math.random()*(b-a))}function hb(a,b,c,d,e,f){return"rgb("+W(Math.max(a,0),Math.min(b,255)).toString()+","+W(Math.max(c,0),Math.min(d,255)).toString()+","+W(Math.max(e,0),Math.min(f,255)).toString()+")"}function X(a){a=Va(a.l.g,"DIV");a.className=Ua();return a}
+function gb(a,b){0>=b||null!=a.g&&0!=a.g.offsetHeight&&0!=a.g.offsetWidth||(ib(a),fb(a),p.setTimeout(function(){return gb(a,b-1)},50))}
+function ib(a){var b=a.j;var c="undefined"!=typeof Symbol&&Symbol.iterator&&b[Symbol.iterator];if(c)b=c.call(b);else if("number"==typeof b.length)b={next:aa(b)};else throw Error(String(b)+" is not an iterable or ArrayLike");for(c=b.next();!c.done;c=b.next())(c=c.value)&&c.parentNode&&c.parentNode.removeChild(c);a.j=[];(b=a.g)&&b.parentNode&&b.parentNode.removeChild(b);a.g=null};function jb(a,b,c,d,e){function f(k){document.body?g(document.body):0<k?p.setTimeout(function(){f(k-1)},e):b()}function g(k){k.appendChild(h);p.setTimeout(function(){h?(0!==h.offsetHeight&&0!==h.offsetWidth?b():a(),h.parentNode&&h.parentNode.removeChild(h)):a()},d)}var h=kb(c);f(3)}function kb(a){var b=document.createElement("div");b.className=a;b.style.width="1px";b.style.height="1px";b.style.position="absolute";b.style.left="-10000px";b.style.top="-10000px";b.style.zIndex="-10000";return b};function Ma(a){this.h=R(a)}n(Ma,T);function lb(a){this.h=R(a)}n(lb,T);var mb=Qa(lb);function nb(a){a=Na(a,4)||"";if(void 0===U){var b=null;var c=p.trustedTypes;if(c&&c.createPolicy){try{b=c.createPolicy("goog#html",{createHTML:q,createScript:q,createScriptURL:q})}catch(d){p.console&&p.console.error(d.message)}U=b}else U=b}a=(b=U)?b.createScriptURL(a):a;return new V(a,Ta)};function ob(a,b){this.m=a;this.o=new Wa(a.document);this.g=b;this.j=S(this.g,1);this.u=nb(La(this.g,2));this.i=!1;b=nb(La(this.g,13));this.l=new db(a.document,b,S(this.g,12))}ob.prototype.start=function(){pb(this)};
+function pb(a){qb(a);Za(a.o,a.u,3,!1,function(){a:{var b=a.j;var c=p.btoa(b);if(c=p[c]){try{var d=Sa(p.atob(c))}catch(e){b=!1;break a}b=b===Na(d,1)}else b=!1}b?Z(a,S(a.g,14)):(Z(a,S(a.g,8)),eb(a.l))},function(){jb(function(){Z(a,S(a.g,7));eb(a.l)},function(){return Z(a,S(a.g,6))},S(a.g,9),Oa(a.g,10),Oa(a.g,11))})}function Z(a,b){a.i||(a.i=!0,a=new a.m.XMLHttpRequest,a.open("GET",b,!0),a.send())}function qb(a){var b=p.btoa(a.j);a.m[b]&&Z(a,S(a.g,5))};(function(a,b){p[a]=function(){var c=ma.apply(0,arguments);p[a]=function(){};b.apply(null,c)}})("__h82AlnkH6D91__",function(a){"function"===typeof window.atob&&(new ob(window,mb(window.atob(a)))).start()});}).call(this);
+
+window.__h82AlnkH6D91__("WyJwdWItNzE5MzM5ODQ3OTI0MTY4OSIsW251bGwsbnVsbCxudWxsLCJodHRwczovL2Z1bmRpbmdjaG9pY2VzbWVzc2FnZXMuZ29vZ2xlLmNvbS9iL3B1Yi03MTkzMzk4NDc5MjQxNjg5Il0sbnVsbCxudWxsLCJodHRwczovL2Z1bmRpbmdjaG9pY2VzbWVzc2FnZXMuZ29vZ2xlLmNvbS9lbC9BR1NLV3hWYUhPaTVCa2tpMkFVQUpFMW9HMmJ2Qlh0djd4OThfclY5X1ZvYUJBeFRIMHg5LVpfNUZab20xS3dCMUVfdDFocmdtUGVhTWZTZXFYeklkamVaeGw0VFlBXHUwMDNkXHUwMDNkP3RlXHUwMDNkVE9LRU5fRVhQT1NFRCIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2VsL0FHU0tXeFcwVXlrZ01Pb0ZZd3ppNjdaV3J6NVRPRVFzZE5ValFWOVNzVmQ5MGJxbEhYS3ZLcXNCMkVUYXByNktjaW82V0M2RGQyUTYtSk9fU3Ezc2dKa0JMQWhuZ3dcdTAwM2RcdTAwM2Q/YWJcdTAwM2QxXHUwMDI2c2JmXHUwMDNkMSIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2VsL0FHU0tXeFV5LWZES3FaQVBUTVdHWVcyMEcwOExKYnFBQmdDMU82RmRtLXA5dHl3ZWlrdHBRcHlGVXRadVhyVlBGZGpBTFdHMTF6UDl1TlQ5SGh4ZVBybENrdlM0Z1FcdTAwM2RcdTAwM2Q/YWJcdTAwM2QyXHUwMDI2c2JmXHUwMDNkMSIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2VsL0FHU0tXeFh0cjVRZnk5akpwSXloOThPZ3lpUFQ4U0VuSU16MTJUSm5tWGVfZVFIUDhvTnI4MWs1ejVMWlJnX0pveWdyQ21HU2I2VDhVbGh6bTJhMWpsd0NfdVl4WFFcdTAwM2RcdTAwM2Q/c2JmXHUwMDNkMiIsImRpdi1ncHQtYWQiLDIwLDEwMCwiY0hWaUxUY3hPVE16T1RnME56a3lOREUyT0RrXHUwMDNkIixbbnVsbCxudWxsLG51bGwsImh0dHBzOi8vd3d3LmdzdGF0aWMuY29tLzBlbW4vZi9wL3B1Yi03MTkzMzk4NDc5MjQxNjg5LmpzP3VzcXBcdTAwM2RDQTAiXSwiaHR0cHM6Ly9mdW5kaW5nY2hvaWNlc21lc3NhZ2VzLmdvb2dsZS5jb20vZWwvQUdTS1d4WEF4NWlSVEN4QW1HN1hoUEZJbnFkQmNuN3VBNHJ2cF84ZDJzSzVkNWhqSERCT2ZSUDU0TmtzaHE2Ym1qa3ItSWJ0ZUVfLXgtSm56V0c5WEFWWVl6UkdTd1x1MDAzZFx1MDAzZCJd");</script>
+</head>
+<body>
+<div class="adwrap shadow" style="height: 300px !important;"><span class="profil">Advertising</span><br>
+<!-- flexad1 -->
+<ins class="adsbygoogle"
+     style="display:block;height:280px;"
+     data-ad-client="ca-pub-7193398479241689"
+     data-ad-slot="9606769192"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+	<!--navigation DIV-->
+<div class="wrap">
+ <div class="topnav" id="myTopnav">
+  
+	  <div itemscope itemtype="https://schema.org/Organization" class="logo"><a itemprop="url" href="../index.html"><img itemprop="logo" src="images/OWNO-logo-withea.png" alt="Nations Online Logo" width="30" height="30" style="margin-top:3px" title="Nations Online Project Home"></a></div>
+	 
+	 <!--navigation dropdowns-->
+    <div class="dropdown">
+    <button class="dropbtn">Continents</button>
+    <div class="dropdown-content">
+      <a href="continents.htm">About Continents</a>
+      <a href="africa.htm">Africa</a>
+      <a href="america.htm">The Americas</a>
+      <a href="asia.htm">Asia</a>
+	  <a href="europe.htm">Europe</a>
+	 <a href="oceania.htm">Oceania/Australia</a>
+    </div>
+  </div>  
+  <div class="dropdown">
+    <button class="dropbtn">Countries</button>
+    <div class="dropdown-content">
+      <a href="countries.html">Countries Index</a>
+      <a href="countries_of_the_world.htm">Countries A to Z</a>
+      <a href="states.htm">Sovereign States</a>
+		<a href="territories.htm">Dependent Areas</a>
+		<a href="countries_by_area.htm">Countries by Area</a>
+		<a href="population-by-country.htm">Country Population</a>
+		<a href="island-countries.htm">Island Countries</a>		
+		<a href="muslim-countries.htm">Countries of the Islamic World</a>
+		<a href="third_world.htm">Third World</a>
+		<a href="third_world_countries.htm">First, Second, Third World Countries</a>		
+		<a href="human_development.htm">Human Development by Country</a>
+		<a href="corruption.htm">Countries by Corruption</a>
+		<a href="press_freedom.htm">Countries and Press Freedom</a>
+		<a href="flags.html">Country Flags</a>
+		<a href="currencies.htm">Currencies</a>
+    </div>
+  </div>  
+   <div class="dropdown">
+    <button class="dropbtn">Cities</button>
+    <div class="dropdown-content">
+     <a href="cities.htm">Cities Index</a>  
+      <a href="bigcities.htm">Megacities</a>
+        <a href="famous-cities.htm">Famous Cities</a>
+        <a href="capitals_africa.htm">Capital Cities Africa</a>
+        <a href="capitals_america.htm">Capital Cities Americas</a>
+        <a href="capitals_asia.htm">Capital Cities Asia</a>
+        <a href="capitals_australia.htm">Capital Cities Australia</a>
+        <a href="capitals_europe.htm">Capital Cities Europe</a>
+        <a href="capitals-usa.htm">US Capital Cities</a>
+        <a href="most_pop_cities_usa.htm">Largest US cities</a>
+        <a href="airlines.html">Airports and Airlines</a>   
+    </div>
+  </div>
+   <div class="dropdown">
+    <button class="dropbtn">Landmarks</button>
+    <div class="dropdown-content">
+      <a href="most_famous_landmarks.htm">Famous Landmarks</a>
+        <a href="most_famous_landmarks2.htm">City Icons</a>
+        <a href="most_famous_landmarks3.htm">Places of Power</a>
+        <a href="most_famous_landmarks4.htm">Sacred Mountains</a>
+    </div>
+  </div> 
+   <div class="dropdown">
+    <button class="dropbtn">Languages</button>
+    <div class="dropdown-content">
+      <a href="languages.htm">Languages</a>
+      <a href="countries_by_languages.htm">Languages by countries</a>
+      <a href="language_code.htm">Language codes</a>
+      <a href="most_spoken_languages.htm">Most spoken Languages</a>
+    </div>
+  </div> 
+   <div class="dropdown">
+    <button class="dropbtn">Maps</button>
+    <div class="dropdown-content">
+            <a href="maps.htm">Maps Index</a>
+        <a href="map/index.htm">Maps by Country</a>
+        <a href="us_states_maps.htm">Maps of US States</a>
+    </div>
+  </div> 
+   <div class="dropdown">
+    <button class="dropbtn">International</button>
+    <div class="dropdown-content">
+      <a href="codes.html">Codes Index</a>      
+        <a href="news.html">International News</a>
+        <a href="countrycodes.htm">Country Codes</a>
+        <a href="international-calling-codes.htm">Int. Calling Codes</a>
+        <a href="currencies.htm">Currency Codes</a>
+        <a href="airport_code.htm">Airport Codes</a>
+    </div>
+  </div> 
+   <div class="dropdown">
+    <button class="dropbtn">Culture</button>
+    <div class="dropdown-content">
+            <a href="BLM.htm">BLM .:. Black Music</a>
+    </div>
+  </div> 
+  <a href="javascript:void(0);" style="font-size:27px;" class="icon" onclick="myFunction()">&#9776;</a>
+</div>
+	<br>
+</div>
+
+	<button onclick="topFunction()" id="upBtn" title="Go to top">&#x25B2;</button>
+	<div class="wrap">
+      <div class="row">
+        <div><img src="../gallery/UK/CoA/uk-flag-wave.jpg" alt="Flag of the United Kingdom detail" width="1196" height="55" class="img100" title="Flag of the United Kingdom">
+        </div>
+      </div>
+    </div>
+<div class="wrap">
+  <div class="row">
+  <div><span id="breadcrumbs" itemprop="breadcrumb"> <span><a href="../index.html">Home</a></span> <img src="../buttons/pfeil_r.gif" width="6" height="8" alt=""> <span><a href="earth.htm">Earth</a></span> <img src="../buttons/pfeil_r.gif" width="6" height="8" alt=""> <span><a href="continents.htm">Continents</a></span>  <img src="../buttons/pfeil_r.gif" width="6" height="8" alt=""> <span><a href="europe.htm">Europe</a></span> <img src="../buttons/pfeil_r.gif" width="6" height="8" alt=""> <span><a href="europe_map.htm">Europe Map</a></span> <img src="../buttons/pfeil_r.gif" width="6" height="8" alt=""> <span><i>United Kingdom</i></span><br>
+    <img src="../buttons/p_down.gif" width="8" height="6" alt="below"> <span><a href="#England">England</a></span> <img src="../buttons/pfeil_r.gif" width="6" height="8" alt=""> <span><a href="map/google_map_London.htm">London</a></span> &nbsp;<img src="../buttons/pfeil_r.gif" width="6" height="8" alt=""> <span><a href="northern_ireland.htm">Northern Ireland</a></span> <img src="../buttons/pfeil_r.gif" width="6" height="8" alt=""> <span><a href="scotland.htm">Scotland</a></span> <img src="../buttons/pfeil_r.gif" width="6" height="8" alt=""> <span><a href="wales.htm">Wales</a></span>    <br>
+    <img src="../buttons/pfeil_r.gif" width="6" height="8" alt=""> <span><a href="countries_of_the_world.htm">All Countries</a></span></span>
+    <div class="gsearchform">
+      <!--google search box start-->
+      <form action="https://www.nationsonline.org/oneworld/searchresults.htm" id="cse-search-box">
+        <div>
+          <input type="hidden" name="cx" value="partner-pub-7193398479241689:6876591797">
+          <input type="hidden" name="cof" value="FORID:10">
+          <input type="hidden" name="ie" value="UTF-8">
+          <input type="text" name="q" size="27">
+          <input type="submit" name="sa" value="Search Nations Online">
+        </div>
+      </form>
+      <!--google search box end-->
+      <br>
+    </div>
+<br>
+  <img src="../buttons/h_dark_blue.gif" alt="" style="margin-top:9px;margin-bottom:9px; width:99.9%; height:2px;"></div>
+</div>
+
+    <div class="row">
+      <div><br>
+        <a href="#Countryprofile" class="link_button">Country Profile</a> <a href="#Government" class="link_button">Government</a> <a href="#Maps" class="link_button">Maps</a> <a href="#News" class="link_button">News</a> <a href="#Culture" class="link_button">Culture</a> <a href="#Business" class="link_button">Business</a> <a href="#Tourism" class="link_button">Tourism</a> <a href="#World-Heritage-Sites" class="link_button">World Heritage Sites</a> <a href="#Education" class="link_button">Education</a> <a href="#Environment" class="link_button">Environment</a> <a href="#History" class="link_button">History</a> <a href="#England" class="link_button">England</a> <a href="#Information" class="link_button">Info</a><br>
+        <br>
+      </div>
+    </div>
+<div class="row"><br>
+    <h1 class="page-title">United Kingdom</h1><br>
+</div>
+<div class="row"></div>
+      <div><img src="../gallery/UK/Windsor-Castle-at-Sunset.jpg" alt="Windsor Castle in Windsor, England." width="1944" height="885" class="img100" title="Windsor Castle" loading="lazy"><br>
+        <span class="caption2">Windsor Castle in Windsor, Berkshire seen at sunset, viewed from the Long Walk.  Windsor Castle is one of the official residences of the British Royal Family. </span><br>
+        <span class="profil">Image: <a href="https://en.wikipedia.org/wiki/User:Diliff" target="_blank">Diliff</a></span><br>
+        <br>
+        &nbsp; <br>
+  </div>
+</div>
+	<div class="wrap">
+      <div class="row">
+        <div>          <div class="img-right2"><a href="map/united-kingdom-map.htm"><img src="../map_small/uk_small_map.jpg" width="234" height="176" alt="Location map of the United Kingdom. Where in Europe is the United Kingdom?" title="click for a detailed map of United Kingdom?"></a><br>
+              <span class="profil">Location map of the United Kingdom</span><br>
+            <br>
+            <br>
+          </div>
+          <div class="seal" style="width: 108px"><a href="javascript:;" onClick="MM_openBrWindow('../flags_big/United_Kingdom_Flag.html','UnitedKingdom','width=650,height=520')"><img src="../flags/united_kingdom_flag.gif" alt="National flag of the  United Kingdom" width="108" height="54" title="UK Flag, The Union Jack"></a><br>
+<span class="profil"><a href="flags.html">Flag</a> of the United Kingdom<br>
+The Union Jack</span><br>
+<br>
+          </div>
+          <span class="caption"> Destination Great Britain, a Nations Online Project  country profile.</span><br>
+<br>
+The United Kingdom of Great Britain and Northern Ireland is known as the United Kingdom, the UK, Britain, or even England. The country on the island of Great Britain in north-western Europe  comprises England, <a href="wales.htm">Wales</a>, <a href="scotland.htm">Scotland</a>, and  <a href="ireland.htm">Northern Ireland</a>, which occupies the northeastern part of the island of Ireland. On the island of Ireland, there is the country's only land border, the one with the <a href="ireland.htm">Republic of Ireland</a>. <br>
+<br>
+The UK is separated from continental Europe by the English Channel. The kingdom is situated on an archipelago known as the <em>British Isles</em> with the two main islands Great Britain and Ireland, plus the surrounding island groups of the Hebrides, the Shetlands, the Orkneys, the Isle of Man, and the Isle of Wight. The island group is located southeast of <a href="iceland.htm">Iceland</a>, west of <a href="norway.htm">Norway</a> and <a href="denmark.htm">Denmark</a>, between the North Sea in the east and the North Atlantic Ocean in the west. The UK shares maritime borders with <a href="belgium.htm">Belgium</a>, <a href="denmark.htm">Denmark</a>, <a href="france.htm">France</a>, <a href="germany.htm">Germany</a>, the <a href="netherlands.htm">Netherlands</a>, <a href="norway.htm">Norway</a>, and the <a href="faroe_islands.htm">Faroe Islands</a> (Denmark).<br>
+<br>
+With an <a href="countries_by_area.htm">area</a> of 242,900 km², the United Kingdom  is  not quite half the size of <a href="spain.htm">Spain</a>, or slightly smaller than the <a href="countries_usa.htm">U.S. state</a> of <a href="map/USA/oregon_map.htm">Oregon</a>.<br>
+<br>
+The UK has a <a href="population-by-country.htm">population</a> of 69 million people (in 2024), the capital and largest city is <a href="map/google_map_London.htm">London</a>. Spoken <a href="languages.htm">language</a> is, guess what, British English, ok there is also Welsh, Irish Gaelic, and Scottish Gaelic. Main religion is Christianity (60%)<br>
+<br>
+The UK was  one of the 28 member states of the European Union (EU), but since a kind of populist referendum in June 2016, the UK has now left the EU. What a pity!<br>
+<br>
+<br>
+&nbsp;</div>
+      </div>
+    </div>
+		<div class="mobilead">
+        <!-- flexad1 -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7193398479241689"
+     data-ad-slot="9606769192"
+     data-ad-format="auto"></ins>
+  <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+    </div>
+	<div class="wrap">
+      <div class="rap">
+        <div class="caption" style="background-color:#BDCEE7;height:36px;vertical-align: middle;padding-left: 18px;padding-top: 9px">United Kingdom of Great Britain and Northern Ireland</div>
+	    <div style="background-color:#F9F9F9"><br>
+	      <div class="bgtxt dix2"><br>
+	        <br>
+Background:<br>
+Once a 'great' nation, at its zenith, the British Empire stretched 
+      over one-fourth of the earth's surface.<br>
+      <br>
+Now
+      four constituent nations form the United Kingdom (England, Scotland, Wales, and 
+      Northern Ireland). Great Britain, the dominant industrial and maritime power of 
+      the 19th century, played a leading role in developing parliamentary democracy, in advancing literature, science, and later pop music. <br>
+      <br>
+The first half of the 20th century saw the UK's strength critically depleted in 
+      two World Wars. The second half witnessed the dismantling of the Empire and the 
+      UK rebuilding itself into a modern and prosperous European nation. As one of five 
+      permanent members of the UN Security Council, a founding member of NATO, and 
+      the Commonwealth, the UK pursues a global approach to foreign policy; it currently 
+      is weighing the degree of its integration with continental Europe (Brexit). <br>
+      <br>
+Still a member of the EU, it chose to remain outside of the European Monetary Union 
+      for the time being. Constitutional reform is also a significant issue in the UK. 
+      Regional assemblies with varying degrees of power opened in Scotland, Wales, and 
+      Northern Ireland in 1999.<br>
+      <br>
+  &nbsp;</div><br>&nbsp;
+	    </div>
+      </div>
+    </div>
+<div class="wrap" id="Countryprofile">
+<div class="rap">
+<div style="background-color:#F9F9F9"><br>
+<div class="lcontent dix2"><br>
+
+    <span class="caption">Country Profile</span><br>
+      <br>
+	Official Name: <br>
+        <b>United Kingdom of Great Britain and Northern Ireland</b><br>
+conventional short form: United Kingdom<br>
+abbreviation: UK <br>
+<br>
+<a href="countrycodes.htm">ISO Country Code</a>: <b>gb, GBR</b><br>
+Internet identification code: <b>uk</b><br>
+<br>
+<b>Time:</b><br>
+Time Zone: Western European Time Zone (WET). Western European Standard Time is 
+Greenwich Mean Time (GMT).<br>
+Local Time = <a href="#" onClick="Name=window.open('utc.html', 'win1','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,copyhistory=yes,width=200,height=200'); return false;" onMouseOver="self.status='Current Coordinated Universal Time'; return true">UTC</a> No UTC offset<br>
+Daylight Saving Time (DST) March - October (UTC +1) <br>
+Actual Time: <b>
+
+<span STYLE=" font-family: helvetica,arial,sans-serif;color:#000063;font-size:10px">
+Sun-Nov-10 &nbsp;03:49
+</span>
+
+
+
+</b> <br>
+<br>
+<a href="international-calling-codes.htm">Country Calling Code</a>: +44<br>
+<br>
+Capital City: <b><a href="map/google_map_London.htm">London</a></b> (metropolitan pop. about 9 million)<br>
+	<br>
+<b>Other Cities: </b><br>
+<a href="map/google_map_Belfast.htm">Belfast</a>, <a href="map/google_map_Birmingham.htm">Birmingham</a>, 
+Bradford, Bristol, <a href="map/google_map_Cardiff.htm">Cardiff</a>, <a href="map/google_map_Edinburgh.htm" target="_blank">Edinburgh</a>, <a href="map/google_map_Glasgow.htm">Glasgow</a>, Leeds, <a href="map/google_map_Liverpool.htm">Liverpool</a>, <a href="map/google_map_Manchester.htm">Manchester</a>, 
+Sheffield. <br>	
+	
+<p style="padding-left: 234px"><a class="show" style="cursor:pointer" id="oneworld" onClick="showme('intel');">...show more</a></p><br>
+<div id="intel" style="display:none;"><br>
+<b>Government:</b><br>
+Constitutional monarchy.<br>
+Constitution: Unwritten, partly statutes, partly common law and practice. <br>
+<br>
+<b>Geography:</b><br>
+Location: Western Europe, islands including the northern one-sixth of the island 
+of Ireland between the North Atlantic Ocean and the North Sea, northwest of France <br>
+<a href="countries_by_area.htm">Area</a>: 243,000 km&sup2; (93,000 sq. mi.)<br>
+Terrain: 30% arable, 50% meadow and pasture, 12% waste or urban, 7% forested, 
+1% inland water.<br>
+Land use: 25% arable, 46% meadows and pastures, 10% forests and woodland, 19% 
+other. <br>
+<br>
+<b>Climate:</b> <br>
+Very British: more than one-half of the days are overcast; generally mild and 
+temperate; moderated by prevailing southwest winds over the North Atlantic Current. <br>
+<br>
+<b>People:</b><br>
+Nationality: Noun--Briton(s). Adjective--British.<br>
+<a href="population-by-country.htm">Population</a>: 69 million (2024)<br>
+Real GDP per capita: $54,100 (2023 est.)<br>
+Major ethnic groups: British, Irish, West Indian, South Asian.<br>
+Major religions: Church of England (Anglican), Roman Catholic, Church of Scotland 
+(Presbyterian) 60%, Muslim 4.4%, Hindu 1.3%.<br>
+<a href="european_languages.htm" title="European languages">Major languages</a>: 
+English, Welsh, Irish Gaelic, Scottish Gaelic.<br>
+Literacy: 99%. <br>
+    <br>
+    <a href="corruption.htm#GBR" title="Corruption Perceptions Index by country">Transparency</a>: Rank 11 (out of 180 countries); Score 77, on a scale from 100 (very clean) to 0 (highly corrupt). The United Kingdom is ranked in the Corruption Perceptions Index 2020 between  <a href="hong_kong.htm">Hong Kong</a> and <a href="austria.htm">Austria</a>.<br>
+    <br>
+    <br>
+<b>Natural resources:</b> Coal, oil, natural gas, tin, limestone, iron ore, salt, 
+clay, chalk, gypsum, lead, silica. <br>
+<br>
+<b>Agriculture products:</b> Cereals, oilseed, potatoes, vegetables, cattle, sheep, poultry, fish, milk, eggs. <br>
+<br>
+<b>Industries:</b> Machine tools, electric power equipment, automation equipment, 
+railroad equipment, shipbuilding, aircraft, motor vehicles and parts, electronics 
+and communications equipment, metals, chemicals, coal, petroleum, paper and paper 
+products, food processing, textiles, clothing, and other consumer goods. <br>
+<br>
+<strong>Exports - commodities:</strong> manufactured goods, fuels, chemicals; food, beverages, and tobacco.<br>
+<br>
+<strong>Exports - partners:</strong> <a href="united_states.htm" title="United States country profile">United States</a> 13%, <a href="netherlands.htm" title="Netherlands country profile">Netherlands</a> 9%, <a href="germany.htm" title="Germany country profile">Germany</a> 9%, <a href="china.htm" title="China country profile">China</a> 8%, <a href="ireland.htm" title="Ireland country profile">Ireland</a> 7% (2022)<br>
+<br>
+<strong>Imports - commodities:</strong> manufactured goods, machinery, fuels; foodstuffs<br>
+<br>
+<strong>Imports - partners:</strong> China 12%, Germany 10%, United States 10%, <a href="norway.htm">Norway</a> 8%, Netherlands 5% (2022)<br>
+<br>
+<a href="currencies.htm">Currency:</a> British Pound &pound; (GBP)<br>
+&nbsp;</div></div>
+<br>
+    <br>
+&nbsp;  
+
+      </div>
+  </div>
+</div>
+	
+	<div class="wrap" id="Government">
+      <div class="rap">
+		  
+		<div style="background-color:#F9F9F9"><br>
+			
+			<div class="lcontent dix2"><br>
+<span class="caption">Official Sites of United Kingdom</span><br>
+            <br>
+            <span class="profil">Note: External links will open in a new browser window. </span><br>
+            <br>
+            <img src="../gallery/UK/Palace-of-Westminster-Parliament.jpg" alt="Palace of Westminster in London houses the British parliament" width="1170" height="783" class="img100" title="Palace of Westminster, London" loading="lazy"><br>
+            <span class="caption2">The Palace of Westminster in London is the meeting place of the Parliament of the United Kingdom. Westminster is probably one of the most famous parliament buildings in the world. The <a href="https://whc.unesco.org/en/list/426" title="Palace of Westminster and Westminster Abbey including Saint Margaret's Church" target="_blank">Palace of Westminster and Westminster Abbey including Saint Margaret's Church</a> is a UNESCO World Heritage Site.</span><br>
+            <span class="profil">Image: <a href="https://commons.wikimedia.org/wiki/User:Mgimelfarb" target="_blank">Mike Gimelfarb</a></span><br>
+            <br>
+            <br>
+            <span class="caption">Political system</span><br>
+The United Kingdom of Great Britain and Northern Ireland is a unitary state with a constitutional monarchy. Scotland, Wales and Northern Ireland have a degree of autonomous devolved power. The head of state of the United Kingdom is the monarch (Queen Elizabeth II). The head of government is the  prime minister. The bicameral British Parliament is the supreme legislative body in the United Kingdom; its seat is the Palace of Westminster.<br>
+<br>
+<br>
+<br>
+<img src="../buttons/crown.gif" width="14" height="16" alt="royal">&nbsp;<a href="http://www.royal.gov.uk/"  target="_blank"><b>The 
+Royal Household</b></a><br>
+The home of the Royal Family.<br>
+<br>
+<br>
+<a href="https://www.gov.uk/government/organisations/prime-ministers-office-10-downing-street"  target="_blank"><b>Number 10 Downing Street</b></a><br>
+The official site of the British Prime Minister (various, they go in and out of the office).<br>
+<br>
+<a href="http://www.parliament.uk/"  target="_blank"><b>United Kingdom Parliament</b></a><br>
+consists of the <br>
+<a href="http://www.parliament.uk/business/commons/"  target="_blank"><b>House 
+of Commons</b></a><br>
+and the <br>
+<a href="http://www.parliament.uk/business/lords/"  target="_blank"><b>House 
+of Lords</b></a> <br>
+<br>
+<br>
+<a href="http://www.direct.gov.uk/"  target="_blank">Directgov</a><br>
+UK government information and services.<br>
+<br>
+<a href="https://www.gov.uk/government/organisations/department-for-exiting-the-european-union"  target="_blank">Department for Exiting the European Union</a><br>
+The Secretary of State for Exiting the European Union. <br>
+<br>
+<a href="https://www.gov.uk/brexit" target="_blank">Brexit</a><br>
+Government information about Brexit.<br>
+<br>
+<a href="http://www.fco.gov.uk/"  target="_blank">Foreign &amp; Commonwealth 
+Office (FCO)</a><br>
+The British Government department is responsible for overseas relations and foreign 
+affairs. <br>
+<br>
+<br>
+<span class="hbold">Diplomatic Missions</span><br>
+<a href="https://www.gov.uk/government/world/uk-mission-to-the-united-nations-new-york"  target="_blank">UK Mission to the United Nations (New York)</a><br>
+Britain at the United Nations; the United Kingdom is one of the five permanent 
+members of the UN Security Council.<br>
+<a href="https://www.gov.uk/government/world/organisations/british-embassy-washington" target="_blank">British Embassy, Washington D.C.</a><br>
+The British Embassy to the United States.<br>
+<a href="https://www.gov.uk/government/world/embassies"  target="_blank">UK 
+Embassies Overseas</a><br>
+Address list of UK Embassies Abroad.<br>
+<a href="https://www.gov.uk/government/publications/foreign-embassies-in-the-uk"  target="_blank">Foreign 
+Embassies in the UK</a><br>
+Address list of Foreign Embassies in the UK.<br>
+<br>
+<span class="hbold">Statistics</span><br>
+<a href="https://www.statisticsauthority.gov.uk/"  target="_blank">UK Statistics Authority</a><br>
+Official UK statistics and information about statistics.<br>
+<a href="https://www.ons.gov.uk/" target="_blank">Office for National Statistics</a> <br>
+The UK's largest independent producer of official statistics.<br>
+<br>
+<span class="hbold">Weather</span><br>
+<a href="http://www.metoffice.gov.uk/"  target="_blank">The Met Office</a><br>
+UK's national meteorological service. <br>
+<br>
+<span class="hbold">Law enforcement</span><br>
+<a href="http://www.met.police.uk/"  target="_blank">Metropolitan Police</a><br>
+The Scotland Yard homepage.&nbsp;<br>
+<br>
+        &nbsp;</div>
+        <br>&nbsp;
+	    </div>
+      </div>
+    </div>
+	<div class="wrap" id="Maps">
+				  <div class="rap">
+			    <div style="background-color:#F9F9F9"><br>
+		      <div class="lcontentad dix2">
+        <!-- flexad1 -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7193398479241689"
+     data-ad-slot="9606769192"
+     data-ad-format="auto"></ins>
+  <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+    </div>
+					<br>&nbsp;
+    </div>
+  </div>  
+  </div>
+	<div class="wrap">
+      <div class="rap">
+        <div style="background-color:#F9F9F9"><br>
+	     	<div class="lcontent dix2"><span class="caption"><br>
+     	    Maps of United Kingdom</span><br>
+     	    <br>
+            <br>
+            <a href="map/united-kingdom-map.htm"><img src="../gallery/Map-Thumbs/UK-map-cp.jpg" alt="United Kingdom Map" width="1188" height="910" class="img100" title="Political Map of United Kingdom" loading="lazy"></a><br>
+            <span class="caption2">Map of United Kingdom</span> <span class="profil">(click map to enlarge)</span><br>
+        <span class="profil">Image: © nationsonline.org</span><br>
+        <br>
+        <br>
+        <h3><a href="maps.htm" class="caption">Maps</a><br>
+          <br>
+        </h3>
+       <img src="../buttons/pfeil_r.gif" width="6" height="8" alt="">  <a href="map/united-kingdom-map.htm">Map 
+                    of the United Kingdom</a><br>
+Detailed Map of the United Kingdom.<br>
+<br>
+<img src="../buttons/pfeil_r.gif" width="6" height="8" alt=""> <a href="map/ireland-map.htm">Map of Ireland</a><br>
+Detailed Map of Ireland.<br>
+<br>
+<img src="/buttons/google_earth.gif" alt="Google Earth" width="12" height="12"> <a href="map/google_map_uk.htm">Google 
+                    Map United Kingdom</a><br>
+Searchable map and satellite view of the United Kingdom.<br>
+<br>
+<span class="profil">Searchable map and satellite view of:</span><br>
+<img src="../buttons/pfeil_r.gif" width="6" height="8" alt=""> <a href="map/google_map_London.htm">London</a>, <a href="map/google_map_Birmingham.htm"> Birmingham</a>, <a href="map/google_map_Cardiff.htm">Cardiff</a>, <a href="map/google_map_Edinburgh.htm">Edinburgh</a>, <a href="map/google_map_Glasgow.htm">Glasgow</a>, <a href="map/google_map_Liverpool.htm">Liverpool</a>, and <a href="map/google_map_Manchester.htm"> Manchester</a><br>
+<br>
+<img src="/buttons/google_earth.gif" alt="Google Earth" width="12" height="12"> <a href="map/google_map_TowerBridge.htm">Google 
+                    Map the Tower Bridge</a><br>
+Satellite view with information about London's Tower Bridge. <br>
+<br>
+<img src="../buttons/pfeil_r.gif" width="6" height="8" alt=""> <a href="map/small_europe_map.htm">Map 
+                    of Europe</a><br>
+Political Map of Europe. <br>
+<br>
+        &nbsp;</div>
+			<br>&nbsp;
+	    </div>
+      </div>
+    </div>
+<div class="wrap" id="News">
+      <div class="rap">
+        <div style="background-color:#F9F9F9"><br>
+     	  <div class="lcontent dix2"><span class="caption"><br>
+     	    News from the United Kingdom</span><br>
+     	    <br>
+     	    <br>
+            <img src="../gallery/World/International-News.jpg" alt="UK Newsstand" width="1188" height="322" class="img100" title="United Kingdom Newsstand image" loading="lazy"><br>
+            <br>
+            <br>
+            <h3 class="caption">UK News </h3><br>
+     	    A handful of corporations dominates the UK Media; among them is News UK, publisher of The Times, The Sunday Times and <a href="https://en.wikipedia.org/wiki/The_Sun_(United_Kingdom)" title="Wikipedia page about The Sun newspaper" target="_blank">The Sun</a> newspapers, owned by the American mass media conglomerate News Corp, headed by <a href="https://en.wikipedia.org/wiki/Rupert_Murdoch" title="Wikipedia page about Rupert Murdoch" target="_blank">Rupert Murdoch</a>. <sup>[<a href="https://www.mediareform.org.uk/media-ownership/who-owns-the-uk-media" title="Report: Who Owns the UK Media?" target="_blank">1</a>]</sup><br>
+     	    <br>
+     	    The UK media landscape is characterized by a strongly partisan mass-circulation commercial national press and a system of public service broadcasting led by the BBC. A sharp distinction exists between the national quality and tabloid press and between the regimes that govern the print and broadcast media. <sup>[<a href="https://medialandscapes.org/country/united-kingdom" title="European Journalism Centre; Media Landscapes: United Kingdom" target="_blank">2</a>]</sup><br>
+     	    <br>
+     	    In the UK, most if not all tabloids cultivate a culture of sensationalism, with bold, notoriously aggressive headlines and content to the point of breaking the law or the most primitive standards to get a story out first. To stay in the game, they are poised for dishing dirt, provide juicy tidbits about people, and exaggerate incidents to scandals.<br>
+     	    And yes, sex sells: "I want a tearaway paper with lots of tits in it,&quot; said <em>Rupert Murdoch</em> when he acquired the struggling British tabloid <em>THE SUN</em>.<br>
+     	    <br>
+     	    <br>
+     	    <span class="hbold">Online News from the United Kingdom</span><br>
+<br>
+<a href="http://www.bbc.co.uk/"  target="_blank">BBC</a><br>
+The British Broadcasting Corporation online.<br>
+<a href="http://news.bbc.co.uk/"  target="_blank">BBC News Online</a><br>
+The news site of the British Broadcasting Corporation.<br>
+<a href="https://www.ft.com/" target="_blank">The Financial Times</a><br>
+Business topics.<br>
+<a href="http://www.guardian.co.uk/"  target="_blank">The Guardian</a><br>
+National and international news.<br>
+<a href="http://www.independent.co.uk/"  target="_blank">The Independent</a> <br>
+National morning broadsheet.<br>
+<a href="https://inews.co.uk/" target="_blank">iNews</a><br>
+British newspaper.<br>
+<a href="http://www.telegraph.co.uk/"  target="_blank">The Telegraph</a><br>
+A major 'conservative' broadsheet.<br>
+<a href="http://www.the-times.co.uk/"  target="_blank">The Times</a><br>
+The well-known  conservative British newspaper online. <br>
+&nbsp;</div>
+			<br>&nbsp;
+	    </div>
+      </div>
+    </div>
+<div class="wrap" id="Culture">
+      <div class="rap">
+        <div style="background-color:#F9F9F9"><br>
+     	  <div class="lcontent dix2"><span class="caption"><br>
+     	    </span><span class="caption3">Arts &amp; Culture of the United Kingdom</span><br>
+     	    <br>
+            <br>
+            <img src="../gallery/UK/sorry_banksy.jpg" alt="banksy: Sorry! The lifestyle you ordered is currently out of stock" width="1188" height="789" class="img100" title="banksy: Sorry! The lifestyle you ordered..." loading="lazy"><br>
+            <span class="caption2">Banksy street art. Sorry! The lifestyle you ordered is currently out of stock. 
+		    </span><br>
+            <span class="profil">Image: <a href="https://banksy.co.uk/" target="_blank">banksy</a></span><br>
+            <br>
+            <br>
+        <h3 class="caption">Arts &amp; Culture</h3><br>
+          <br>
+        
+
+<br>
+<span class="hbold">Museums</span><br>
+<a href="http://www.britishmuseum.org/" target="_blank">British Museum</a><br>
+The museum is dedicated to human history plus culture, London.<br>
+<a href="https://www.britishmotormuseum.co.uk/" target="_blank">British Motor Museum</a><br>
+The former Heritage Motor Centre is a British motor museum in Warwickshire, England, established 	in 1993.<br>
+<a href="https://www.nhm.ac.uk/" target="_blank">Natural History Museum</a><br>
+Eighty million items, five main collections: botany, entomology, mineralogy, paleontology, and zoology.<br>
+<a href="https://group.sciencemuseum.org.uk/"  target="_blank">The National Museum of Science 
+&amp; Industry</a><br>
+Illustrating the history and contemporary practice of science, technology, medicine, 
+and industry.<br>
+<a href="https://www.rmg.co.uk/national-maritime-museum"  target="_blank">National Maritime Museum</a><br>
+The largest Maritime Museum in the World.<br>
+<a href="https://www.sciencemuseum.org.uk/" target="_blank">Science Museum</a><br>
+	London's Science Museum on Exhibition Road is part of the Science Museum Group.<br>
+    <br>
+    <br>
+    <span class="hbold">Performing  arts</span><br>
+    <a href="https://www.barbican.org.uk/" target="_blank">Barbican Centre</a><br>
+The Barbican is a performing arts center in London and the largest of its kind in Europe.<br>
+<a href="https://www.lso.co.uk/" target="_blank">London Symphony Orchestra</a><br>
+LSO is London's oldest of  symphony orchestra and one of the top orchestras in the world.<br>
+<br>
+<span class="hbold">Classical Pop Music</span><br>
+Great Britain is the birthplace of many of the greatest rock musicians of all time. The music was essentially influenced by African American blues  and US rock'n'roll.<br>
+<a href="https://www.thebeatles.com/"  target="_blank">The Beatles</a><br>
+Beatles interviews, photos, music, and animations.<br>
+<a href="https://www.davidbowie.com/"  target="_blank">David 
+Bowie</a><br>
+Still contemporary British music.<br>
+<a href="https://www.youtube.com/watch?v=UtuM0QEHiyk" target="_blank">Cream</a><br>
+Eric Clapton - Ginger Baker - Jack Bruce<br>
+<a href="https://www.ledzeppelin.com/" target="_blank">Led Zeppelin</a> <br>
+Fifty years of hardcore blues.
+<br>
+<a href="http://www.rollingstones.com/"  target="_blank">The Rolling Stones</a><br>
+Traditional British Rock music.<br>
+<a href="http://www.pinkfloyd.com/" target="_blank">Pink Floyd</a><br>
+Classical psychedelic band.<br>
+<br>
+<span class="hbold">Visual arts</span><br>
+<a href="http://www.nationalgallery.org.uk/"  target="_blank">The National Gallery</a><br>
+The national collection of Western European paintings, London.<br>
+<a href="https://www.royalacademy.org.uk/" target="_blank">The Royal Academy of 
+Arts</a><br>
+Independent, privately funded art institution based in Burlington House on Piccadilly in London, it has a collection of fine arts from the 18th century to the present.<br>
+<a href="http://www.tate.org.uk"  target="_blank">Tate Gallery</a><br>
+United Kingdom's national collection of British art.<br>
+<a href="https://www.vam.ac.uk/" target="_blank">V&amp;A</a> (Victoria and Albert Museum)<br>
+The Victoria and Albert Museum, stylized V&amp;A, founded in 1852, it boasts of being the world's leading museum of art and design.<br>
+<br>
+<a href="http://britishart.yale.edu/"  target="_blank">Yale Center for British Art</a><br>
+The Yale Center for British Art at Yale University in downtown New Haven, Connecticut, houses the most comprehensive collection of British 
+paintings, prints, drawings, rare books, and sculpture outside Great Britain. <br>
+<br>
+<br>
+<span class="hbold">Paintermen</span><br>
+<a href="https://banksy.co.uk/" target="_blank">Banksy</a><br>
+Street art.
+<br>
+<a href="http://frankbowling.com/" target="_blank">Frank Bowling</a><br>
+Guyana-born British artist. <br>
+<a href="http://www.hockney.com/" target="_blank">David Hockney</a> <br>
+ English painter, draftsman, printmaker, stage designer, and photographer.<br>
+ <br>
+ <br>
+ <h3 class="hbold">Language</h3>
+ <a href="https://www.abctales.com/"  target="_blank">ABCtales.com</a><br>
+London based site of a creative writing community where anyone can tell their 
+stories and read the stories of others.<br>
+<br>
+<a href="https://www.oed.com/"  target="_blank">Oxford English Dictionary</a><br>
+The last word on words for the English language.<br>
+<br>
+<a href="http://shakespeare.mit.edu/" target="_blank">The Complete Works of William Shakespeare </a><br>
+Shakespeare online.&nbsp; <br>
+&nbsp;<br>
+&nbsp;</div>
+			<br>&nbsp;
+	    </div>
+      </div>
+    </div>
+		<div class="wrap" id="Business">
+				  <div class="rap">
+			    <div style="background-color:#F9F9F9"><br>
+		      <div class="lcontentad dix2">
+        <!-- flexad1 -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7193398479241689"
+     data-ad-slot="9606769192"
+     data-ad-format="auto"></ins>
+  <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+    </div>
+					<br>&nbsp;
+    </div>
+  </div>  
+  </div>
+	<div class="wrap">
+      <div class="rap">
+        <div style="background-color:#F9F9F9"><br>
+     	  <div class="lcontent dix2"><span class="caption"><br>
+     	    Business &amp; Economy of the United Kingdom</span><br>
+     	    <br>
+     	    <br>
+            <img src="../gallery/UK/The-Bank-of-England-London.jpg" alt="Front of the Bank of England in London" width="1188" height="705" class="img100" title="The Bank of England, London" loading="lazy"><br>
+            <span class="caption2"> The Bank of England at Threadneedle Street in London. </span><br>
+            <span class="profil">Image: Daniel Bennett</span><br>
+     	    <br>
+     	    <br>
+            <a href="https://www.bankofengland.co.uk/"  target="_blank">Bank of England</a><br>
+            <span id="result_box" lang="en">The Bank of England was founded in 1694; it is the central bank of the United Kingdom of Great Britain, based in London.</span><br>
+            <br>
+            <a href="https://www.londonstockexchange.com/"  target="_blank">London Stock Exchange</a> (LSE)<br>
+The London Stock Exchange is headquartered in London; it is among the largest and oldest exchanges in Europe.<br>
+<br>
+<a href="https://www.britishchambers.org.uk/"  target="_blank">British Chambers 
+    of Commerce</a> (BCC)<br>
+The  British Chamber of Commerce is the national representative body of 52 regional accredited chambers of commerce in the United Kingdom.<br>
+<br>
+<a href="https://www.londonchamber.co.uk/"  target="_blank">London Chamber of Commerce 
+    and Industry</a> <br>
+London Chamber of Commerce and Industry (LCCI) is the capital's largest independent networking and business support organization.<br>
+<br>
+<a href="https://www.gov.uk/government/organisations/department-for-international-trade"  target="_blank">Department for International Trade</a><br>
+Formerly the UK Trade &amp; Investment, it was replaced by the Department for International Trade in July 2016, a UK government organization helping UK companies to do business abroad.<br>
+<br>
+<a href="https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy" target="_blank">Department for Business, Energy &amp; Industrial Strategy</a> <br>
+BEIS is a government department supported by 46 agencies and public bodies that was created in 2016 as a result of the merger between the former Department of Energy and Climate Change and the Department for Business, Innovation and Skills.<br>
+    <br>
+    <br>
+    <span class="caption">Dos and Dont's</span><br>
+    <a href="https://studylinks.com/british-etiquette-a-guide-for-international-students/"  target="_blank">Etiquette 
+    Guide: The UK</a><br>
+How to Succeed Royally in Britain. <br>
+<br>
+<br>
+<span class="caption">Transportation</span><br>
+<br>
+<a href="airlines.htm" class="caption">Airlines</a><br>
+<br>
+<a href="http://www.british-airways.com/"  target="_blank">British Airways</a><br>
+The Kingdoms national airline.<br>
+<a href="https://www.easyjet.com/" target="_blank">EasyJet</a><br>
+British low-cost airline headquartered at London Luton Airport. <br>
+<a href="http://www.virgin-atlantic.com/"  target="_blank">Virgin Atlantic Airways</a><br>
+Privately held UK airline. <br>
+<br>
+<a href="https://www.thomascookairlines.com/" target="_blank">Thomas Cook Airlines</a><br>
+was a British charter and scheduled airline headquartered in Manchester; it ceased operations on 23 September 2019. <br>
+<a href="http://www.flybmi.com/"  target="_blank">Flybmi</a><br>
+BMI was UK's second-largest airline; it served over 30 European destinations; it ceased operations on 16 February 2019. <br>
+<br>
+<span class="caption">Ferries</span><br>
+<a href="http://www.brittany-ferries.co.uk/"  target="_blank">Brittany Ferries</a> <br>
+UK's slow connection to mainland Europe.<br>
+<br>
+<span class="caption">Rail</span><br>
+<a href="http://www.eurostar.com/"  target="_blank">Eurostar</a><br>
+High-speed passenger train linking London, <a href="map/google_map_Paris.htm">Paris,</a> and <a href="map/google_map_Brussels.htm">Brussels</a>.<br>
+<a href="http://www.britrail.com/"  target="_blank">BritRail</a><br>
+Train travel in the UK.<br>
+<br>
+<span class="caption">Well-known British Brands</span><br>
+<a href="http://www.dunhill.com/"  target="_blank">Alfred Dunhill</a><br>
+English style.<br>
+<a href="http://www.barbour.com/" target="_blank">Barbour</a><br>
+English luxury fashion of weatherproofed outerwear.<br>
+<a href="https://www.burberry.com/">Burberry </a><br>
+Burberry Group Inc is an English luxury fashion house, headquartered in London, England. <br>
+<a href="http://www.bodyshop.com/"  target="_blank">The Body Shop</a><br>
+The British cosmetics and skincare company was founded in 1976 by Dame Anita Roddick; the company is now owned by L'Oréal.<br>
+<a href="http://www.hackett.co.uk/"  target="_blank">Hackett</a><br>
+British menswear retailer.<br>
+<a href="http://www.harrods.co.uk/"  target="_blank">Harrods</a><br>
+The Store.<br>
+<a href="http://www.lauraashley.com/" target="_blank">Laura Ashley</a><br>
+Laura Ashley was a Welsh textile design company, now in the hands of the MUI Group of Malaysia.<br>
+<a href="http://www.marks-and-spencer.co.uk/"  target="_blank">Marks &amp; Spencer</a><br>
+British retailer.<br>
+<a href="http://www.mulberry-england.co.uk/"  target="_blank">Mulberry</a><br>
+Leather accessories. <br>
+<a href="https://www.paulsmith.com/" target="_blank">Paul Smith</a><br>
+Royal Designer.<br>
+<a href="http://www.privatewhitevc.com/" target="_blank">Private White V.C.</a><br>
+British Luxury Menswear.<br>
+<br>
+<br>
+<span class="caption">Auctions</span><br>
+<a href="https://www.christies.com/"  target="_blank">Christie's</a><br>
+The world's first fine art auction house was founded in 1766 by James Christie, now owned by the French Groupe Artémis. <br>
+<a href="https://www.sothebys.com/"  target="_blank">Sotheby's</a><br>
+The other one of the world's largest brokers of fine and decorative art. Sotheby's was established in 1744 in London. The company is now headquartered in <a href="map/google_map_New_York_City.htm">New York City</a>.<br>
+<br>
+<span class="caption">Cars</span><br>
+<a href="http://www.astonmartin.com/" target="_blank">Aston Martin</a> <br>
+Manufacturer of luxury sports cars and grand tourers. <br>
+<a href="https://www.bentleymotors.com/"  target="_blank">Bentley</a><br>
+A typical British car, acquired by Volkswagen Group in 1998.<br>
+<a href="http://mg.co.uk/"  target="_blank">MG</a><br>
+MG Cars (Morris Garage), was a British sports car manufacturer. <br>
+<a href="https://www.jaguar.com/"  target="_blank">Jaguar Cars</a><br>
+Luxury vehicle brand.<br>
+<a href="https://www.landrover.com/" target="_blank">Land Rover</a><br>
+Famous British four-wheel-drive. <br>
+<a href="http://mini.com/" target="_blank">Mini</a><br>
+The icon of the 1960s British pop culture was first produced by the English based British Motor Corporation (BMC). The last original Mini was produced in Longbridge on 4 October 2000.<br>
+<a href="http://www.rolls-roycemotorcars.com/"  target="_blank">Rolls-Royce</a><br>
+Also a very typical British car, acquired by Vickers, then sold to Volkswagen; it is now a subsidiary of BMW.<br>
+<br>
+<span class="caption">Sports</span><br>
+<a href="https://www.ecb.co.uk/" target="_blank">England and Wales Cricket Board </a>(ECB)<br>
+Cricket is one of the most popular sports in England. <br>
+<a href="https://www.premierleague.com/" target="_blank">Premier League</a> <br>
+The top level of the English football league system. <br>
+<a href="https://www.ascot.co.uk/" target="_blank">Royal Ascot</a><br>
+Hats and horses.
+<br>
+<a href="http://www.wimbledon.com/index.html"  target="_blank">Wimbledon</a><br>
+The All England Lawn Tennis and Croquet Club. <br>
+<br>
+&nbsp;</div>
+			<br>&nbsp;
+	    </div>
+      </div>
+    </div>
+	<div class="wrap" id="Tourism">
+				  <div class="rap">
+			    <div style="background-color:#F9F9F9"><br>
+		      <div class="lcontentad dix2">
+        <!-- flexad1 -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7193398479241689"
+     data-ad-slot="9606769192"
+     data-ad-format="auto"></ins>
+  <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+    </div>
+					<br>&nbsp;
+    </div>
+  </div>  
+  </div>
+
+	<div class="wrap">
+      <div class="rap">
+        <div style="background-color:#F9F9F9"><br>
+     	  <div class="lcontent dix2"><span class="caption"><br>
+     	    Tourism in the United Kingdom</span><br>
+     	    <br>
+            <br>
+            <img src="../gallery/UK/Warwick-Castle.jpg" alt="Warwick Castle, Warwick, Warwickshire" width="1170" height="845" class="img100" title="Warwick Castle at River Avon" loading="lazy"><br>
+            <span class="caption2">Warwick Castle, as seen from the bridge over the River Avon. The medieval castle in Warwickshire was (re)built in stone in the 12th century.</span><br>
+            <span class="profil">Image: <a href="https://commons.wikimedia.org/wiki/User:DeFacto" target="_blank">DeFacto</a></span><br>
+        <br>
+        <br>
+        
+        <h3 class="caption">Destination United Kingdom - Travel 
+          and Tour Guides</h3><br>
+        <br>
+<div class="tttad"><span class="profil">Advertisement</span><br>  <!-- flexad1 -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7193398479241689"
+     data-ad-slot="9606769192"
+     data-ad-format="auto"></ins>
+  <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script><br>
+            </div>
+Discover United Kingdom (just the highlights):
+     London, Tower of London and Tower Bridge, the British Museum, the National Gallery, Big Ben and Palace of Westminster, the Natural History Museum, Victoria and Albert Museum, Buckingham Palace, Windsor Castle, the Lake District in Cumbria, Eden Project Eco-park, National Railway Museum York, Warwick Castle.<br>
+     <br>
+     <br>
+     <a href="https://www.visitbritain.com/"  target="_blank">Visit Britain</a><br>
+The British Tourist Authority Web Site.<br>
+<br>
+<a href="https://unsplash.com/s/photos/uk"  target="_blank">unsplash.com</a> <br>
+The UK in pictures.<br>
+<br>
+<a href="http://travel.guardian.co.uk/countries/indiv/0,7451,413570,00.html"  target="_blank">Guardian 
+        Unlimited: Travel United Kingdom</a><br>
+The Guardian's guide to the UK.<br>
+<br>
+<br>
+<strong>Cities:</strong><br>
+<a href="map/google_map_London.htm">London</a><br>
+London at a glance with a map. <br>
+<a href="map/google_map_Birmingham.htm">Birmingham</a><br>
+Page about Birmingham with a map.<br>
+<a href="map/google_map_Cardiff.htm">Cardiff</a><br>
+About the capital of Wales. <br>
+<a href="map/google_map_Edinburgh.htm">Edinburgh</a><br>
+Scotland's capital with a map.<br>
+<a href="map/google_map_Glasgow.htm">Glasgow</a> <br>
+About the city of Glasgow. <br>
+<a href="map/google_map_Liverpool.htm">Liverpool</a><br>
+More about the birthplace of the Beatles.<br>
+<a href="map/google_map_Manchester.htm">Manchester</a><br>
+Manchester info with a map.<br>
+<br>
+More Travel and Tour Guides can be found at the separate pages of:<br>
+<img src="../buttons/p_down.gif" width="8" height="6" alt="below"> <a href="#England">England</a>, <img src="../buttons/pfeil_r.gif" width="6" height="8" alt=""> <a href="map/google_map_London.htm">London</a> <img src="../buttons/pfeil_r.gif" width="6" height="8" alt=""> <a href="northern_ireland.htm">Northern Ireland</a> <img src="../buttons/pfeil_r.gif" width="6" height="8" alt=""> <a href="scotland.htm">Scotland</a> <img src="../buttons/pfeil_r.gif" width="6" height="8" alt=""> <a href="wales.htm">Wales</a><br>
+<br>
+			  <br>
+&nbsp; 
+			  </div>
+			<br>&nbsp;
+	    </div>
+      </div>
+	</div>
+	<div class="wrap" id="World-Heritage-Sites">
+				  <div class="rap">
+			    <div style="background-color:#F9F9F9"><br>
+		      <div class="lcontentad dix2">
+        <!-- flexad1 -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7193398479241689"
+     data-ad-slot="9606769192"
+     data-ad-format="auto"></ins>
+  <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+    </div>
+					<br>&nbsp;
+    </div>
+  </div>  
+  </div>
+<div class="wrap">
+    <div style="background-color:#F9F9F9"><br>
+      <div class="lcontent dix2"><br>
+        <span class="caption">UNESCO World Heritage Sites</span><br>
+        <br>
+        <br>
+        <img src="../gallery/UK/Greenwich-Hospital-and-Canary-Wharf.jpg" alt="Greenwich Hospital with Canary Wharf in background, Greenwich, London, United Kingdom" width="1188" height="794" class="img100" title="Greenwich Hospital with Canary Wharf in background, Greenwich" loading="lazy"><br>
+<span class="caption2">Greenwich Hospital or  the Old Royal Naval College, with high-rise buildings of the Canary Wharf in background, one of the central business districts of London.</span><br>
+<span class="profil">Image: Tony Grist</span><br>
+&nbsp;<br>
+<br>
+<strong class="caption">UNESCO World Heritage Sites in the United Kingdom</strong><br>
+There are 32 UNESCO World Heritage Sites in the United Kingdom, 27 cultural,  four natural, and one mixed. (see the UNESCO <a href="http://whc.unesco.org/en/statesparties/gb" title="List of UNESCO World Heritage Sites in the United Kingdom" target="_blank">list for the UK</a>)<br>
+<br>
+<br>
+<img style="width:14px; height: auto" src="../gallery/Flags/World-Heritage-Logo.jpg" width="8" height="10" alt="World Heritage Site"> <a href="https://whc.unesco.org/en/list/374/" title="UNESCO:Castles and Town Walls of King Edward in Gwynedd" target="_blank">Castles and Town Walls of King Edward in Gwynedd</a><br>
+The four castles of Beaumaris, Conwy, Caernarfon, Harlech and their fortified towns of Conwy and Caernarfon in Gwynedd, North Wales, are the best examples of late 13th and early 14th-century military architecture in Europe.<br>
+<br>
+<img style="width:14px; height: auto" src="../gallery/Flags/World-Heritage-Logo.jpg" width="8" height="10" alt="World Heritage Site"> <a href="https://whc.unesco.org/en/list/795" target="_blank">Maritime Greenwich</a><br>
+The building complex 
+includes the 17th century Queen's House, part of the last Royal Palace at Greenwich, the palatial Baroque-style Royal Hospital for Seamen (now known as the Old Royal Naval College), and the Royal Observatory founded in 1675. <span class="profil">(<a href="http://www.greenwichworldheritage.org/" target="_blank">Maritime Greenwich official website</a>)</span><br>
+<br>
+<img style="width:14px; height: auto" src="../gallery/Flags/World-Heritage-Logo.jpg" width="8" height="10" alt="World Heritage Site"> <a href="https://whc.unesco.org/en/list/728" target="_blank">Old and New Towns of Edinburgh</a><br>
+The Scottish capital has two distinct areas, the Old Town, dominated by a medieval fortress, and the neoclassical New Town, whose development from the 18th century onwards had a far-reaching influence on European urban planning.<br>
+<br>
+<img style="width:14px; height: auto" src="../gallery/Flags/World-Heritage-Logo.jpg" width="8" height="10" alt="World Heritage Site"> <a href="http://whc.unesco.org/en/list/428" title="UNESCO: City of Bath" target="_blank">City of Bath</a><br>
+The city was founded by the Romans as a thermal spa. In the Middle Ages Bath was an important center of the wool industry. Bath became the center of fashionable life in England during the 18th century; it was an elegant town with neoclassical Palladian buildings.
+<br>
+&nbsp;</div>
+			<br>&nbsp;
+	    </div>
+      </div>
+	<div class="wrap" id="Education">
+      <div class="rap">
+        <div style="background-color:#F9F9F9"><br>
+     	  <div class="lcontent dix2"><span class="caption"><br>
+     	    Education in United Kingdom</span><br>
+     	    <br>
+            <br>
+<img src="../gallery/UK/Trinity-College-Cambridge-Great-Court.jpg" alt="The Great Court at Trinity College, Cambridge, United Kingdom" width="1188" height="773" class="img100" title="The Great Court at Trinity College, Cambridge." loading="lazy"><br>
+            <span class="caption2">The Great Court at Trinity College, Cambridge. From left to right, the King's Gate, the Chapel, the Fountain and the Great Gate.</span><br>
+        <span class="profil">Image: <a href="https://en.wikipedia.org/wiki/User:Solipsist" target="_blank">Andrew Dunn</a></span><br>
+        <br>
+        <br>
+        <a href="http://www.bl.uk/"  target="_blank">The British 
+Library</a><br>
+One of the world's great knowledge institutions.<br>
+        <a href="http://www.etoncollege.com/"  target="_blank">Eton College</a><br>
+The Eton College Web Page, an independent boarding school for boys in Eton,  Windsor, Berkshire.<br>
+<a href="http://www.lse.ac.uk/"  target="_blank">London School of Economics and 
+Political Science</a> <br>
+Founded in 1895, teaching and research across the full range of the social, political 
+and economic sciences.<br>
+<a href="http://brookes.ac.uk/"  target="_blank">Oxford Brookes University</a> <br>
+Named Best New University 2001-2005 by the Sunday Times University Guide.<br>
+<a href="http://www.cam.ac.uk/"  target="_blank">University of Cambridge</a><br>
+Welcome to the University of Cambridge, the  collegiate public research university in Cambridge.<br>
+<a href="http://www.kcl.ac.uk/" target="_blank">King's College London</a><br>
+KCL is the oldest college of the University of London and one of the most prestigious university institutions in Europe.<br>
+<a href="http://www.ucl.ac.uk/"  target="_blank">University College London</a><br>
+Founded in 1826, UCL is consistently ranked in the top three multifaculty UK universities.<br>
+<a href="http://www.nottingham.ac.uk/"  target="_blank">University of Nottingham</a><br>
+The University of Nottingham is a research university in the middle-English city of Nottingham.<br>
+<a href="http://www.ox.ac.uk/"  target="_blank">University of Oxford</a><br>
+Home page of the University of Oxford in Oxford (England) is one of the oldest and most prestigious universities in the world.<br>
+<a href="http://www.sussex.ac.uk/"  target="_blank">University of Sussex</a><br>
+Founded in the 1960s, the University has become a leading teaching and research 
+institution in the UK. <br>
+<br>
+<a href="https://www.theguardian.com/education/universityguide"  target="_blank">University 
+Guide by Education - Guardian.co.uk</a><br>
+Comprehensive source of information on the UK's academic sector, provides university 
+rankings, university statistics and student statistics. <br>
+<br>
+<h3>Science</h3>
+<a href="http://www.geolsoc.org.uk/"  target="_blank">The Geological Society</a><br>
+UK's national society for geoscience.<br>
+<img src="../buttons/spot.gif" width="15" height="15" alt="cultural reference">&nbsp; <a href="https://www.rgs.org/"  target="_blank">Royal Geographical Society</a><br>
+Founded in 1830 for the advancement of geographical science.<br>
+<a href="https://www.rmg.co.uk/royal-observatory"  target="_blank">Royal Observatory Greenwich</a><br>
+Home of the Prime Meridian of the World. You can stand on the Prime Meridian Line daily 10am–5.30pm (£14.40), and take as many selfies as you like.<br>
+<a href="http://www.sciencemuseum.org.uk/"  target="_blank">Science Museum</a><br>
+London's Science Museum is a large science and technology museum and one of the city's major tourist attractions. <br>
+&nbsp;<br>
+&nbsp;</div>
+			<br>&nbsp;
+	    </div>
+      </div>
+    </div>
+<div class="wrap" id="Environment">
+      <div class="rap">
+        <div style="background-color:#F9F9F9"><br>
+     	  <div class="lcontent dix2"><span class="caption"><br>
+     	    Environment &amp; Nature</span><br>
+     	    <br>
+            <br>
+<img src="../gallery/UK/Quiraing-Portree-UK.jpg" alt="Quiraing, on the Trotternish Peninsula of Skye" width="1188" height="792" class="img100" title="Quiraing, Trotternish, Portree, UK" loading="lazy"><br>
+            <span class="caption2">Quiraing, the spectacular series of rock pinnacles within the Trotternish National Scenic Area is located on the northernmost peninsula of Skye.</span><br>
+        <span class="profil">Image: <a href="https://unsplash.com/@iancylkowskiphotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Ian Cylkowski</a></span><br>
+        <br>
+        <br>
+        <a href="https://friendsoftheearth.uk/" target="_blank">Friends of the Earth England, Wales and Northern Ireland</a><br>
+        FoE EWNI is one of 75 national groups around the world which make up the Friends of the Earth network of environmental organizations.<br>
+        <br>
+        <a href="https://www.green-alliance.org.uk/" target="_blank">Green Alliance</a><br>
+Green Alliance is a charity and an independent think tank for the environment in the United Kingdom (UK). <br>
+        <br>
+        <a href="https://www.gov.uk/government/organisations/natural-england" target="_blank">Natural England</a><br>
+A non-departmental public body in the United Kingdom sponsored by the Department for Environment, Food and Rural Affairs.<br>
+<br>
+<a href="https://landscapesforlife.org.uk/" target="_blank">The National Association for Areas of Outstanding Natural Beauty</a><br>
+An Area of Outstanding Natural Beauty (AONB) is a designated exceptional landscape whose distinctive character and natural beauty are precious enough to be safeguarded in the national interest. <br>
+<br>
+        <a href="http://www.nerc.ac.uk/"  target="_blank">Natural Environment Research 
+Council</a> <br>
+The Natural Environment Research Council delivers independent research, survey, 
+training and knowledge transfer in the environmental sciences, to advance knowledge 
+of planet Earth as a complex, interacting system.<br>
+<br>
+<a href="https://www.nationaltrust.org.uk/"  target="_blank">The National Trust</a><br>
+UK's National Trust is a conservation organization in England, Wales and Northern Ireland. The NGO organization acts as a guardian for the nation in the acquisition and protection of threatened coastlines, countrysides and buildings.<br>
+<br>
+<a href="https://www.treecouncil.org.uk/"  target="_blank">The Tree Council</a><br>
+UK's lead charity for trees is working towards: making trees matter to everyone - more trees, of the right kind, 
+in the right place - better care for all trees, of all ages.<br>
+&nbsp;</div>
+			<br>&nbsp;
+	    </div>
+      </div>
+    </div>
+	<div class="wrap" id="History">
+      <div class="rap">
+        <div style="background-color:#F9F9F9"><br>
+     	  <div class="lcontent dix2"><span class="caption"><br>
+     	    United Kingdom History</span><br>
+     	    <br>
+            <br>
+<img src="../gallery/UK/Bayeux-Tapestry.jpg" alt="Bayeux Tapestry" width="1188" height="289" class="img100" title="Bayeux Tapestry" loading="lazy"><br>
+            <span class="caption2">The Bayeux Tapestry depict events leading up to the Norman conquest of England.  King Edward the Confessor and Harold Godwinson at Winchester (left). On his journey to the coast, Harold took a hunting falcon and a pack of hunting dogs with him</span>.<br>
+        <span class="profil">Tapestry: <a href="https://en.wikipedia.org/wiki/Bayeux_Tapestry" target="_blank">La Tapisserie de Bayeux</a><br>
+        </span><br>
+        The Bayeux Tapestry <br>
+        The embroidered cloth from the 11th century, is nearly 70 m (230 ft) long and 50 cm (20 in) tall; it depicts the events leading up to the Norman conquest of England and culminating in the Battle of Hastings. <br>
+        <br>
+        <br>
+        <a href="http://www.nationalarchives.gov.uk/"  target="_blank"><b>The National 
+Archives</b></a><br>
+The National Archives of England, Wales and the United Kingdom, explore over 1000 years of history from Domesday times (11th century) to the present day.<br>
+<br>
+<a href="https://www.british-history.ac.uk/" target="_blank">British History Online</a><br>
+British History Online is a digital library of key printed primary and secondary sources for the history of Britain and Ireland, with a primary focus on the period between 1300 and 1800. <br>
+<br>
+<a href="http://www.bbc.co.uk/history/british/" target="_blank">History: British History in-depth</a><br>
+The BBC with comprehensive information about the UK's past.<br>
+<br>
+<a href="http://www.lib.rochester.edu/camelot/cphome.stm"  target="_blank">The 
+Camelot Project</a><br>
+Scholarly Arthurian Resources with a database of Arthurian texts, images, bibliographies, and basic information, University 
+of Rochester, Rochester, NY.<br>
+<br>
+<a href="https://digital.bodleian.ox.ac.uk/"  target="_blank">Early Manuscripts at Oxford University</a><br>
+Digital facsimiles of over 80 early manuscripts.<br>
+<br>
+<a href="https://www.english-heritage.org.uk/"  target="_blank">English Heritage</a><br>
+English Heritage cares for over 400 historic buildings, monuments and sites, which span six millennia. <br>
+<br>
+<a href="http://www.englishmonarchs.co.uk/"  target="_blank">History of 
+the Monarchy</a><br>
+The history of the oldest institution of government in the United Kingdom.<br>
+<br>
+<a href="http://www.richardiii.net/"  target="_blank">Richard III Society</a><br>
+The life and times of Richard III.<br>
+<br>
+Additional sites:<br>
+<a href="http://avalon.law.yale.edu/"  target="_blank">The Avalon 
+Project at the Yale Law School</a><br>
+Digital documents relevant to the fields of Law, History, Economics, Politics, 
+Diplomacy and Government.<br>
+<a href="https://eudocs.lib.byu.edu/index.php/History_of_the_United_Kingdom:_Primary_Documents"  target="_blank">History 
+of the United Kingdom</a><br>
+Primary Documents, from Antiquity through the Present.<br>
+<a href="http://www.thesalmons.org/lynn/wh-england.html"  target="_blank">World 
+Heritage Sites in the United Kingdom</a><br>
+UK's World Heritage Sites.<br>
+<br>
+<br>
+<b>Museum</b><br>
+<a href="http://www.britishmuseum.org/"  target="_blank">British Museum</a><br>
+Founded in 1753, this is one of the world's oldest museum.<br>
+<img src="../buttons/spot.gif" width="15" height="15" alt="spot">&nbsp;<a href="http://www.museumoflondon.org.uk/"  target="_blank">Museum 
+of the City of London</a><br>
+The world's largest urban history museum and Europe's largest archaeological archive.<br>
+<br>
+<a href="http://www.nhm.ac.uk/"  target="_blank">The Natural History Museum</a><br>
+Promoting the discovery, understanding, responsible use and enjoyment of the natural 
+world. <br>
+<br>
+&nbsp;</div>
+			<br>&nbsp;
+	    </div>
+      </div>
+    </div>
+	<div class="wrap" id="England">
+	  <div class="rap">
+	    <div style="background-color:#F9F9F9"><br>
+	      <div class="lcontent dix2"><span class="caption"><br>
+	        England</span><br>
+	        <br>
+	        <br>
+	        <img src="../gallery/UK/Lindisfarne-Castle-Holy-Island.jpg" alt="Lindisfarne Castle on Holy Island" width="1710" height="1105" class="img100" title="Lindisfarne Castle" loading="lazy"><br>
+            <span class="caption2">Lindisfarne Castle on the Holy Island of Lindisfarne off the northeast coast of England.</span><br>
+            <span class="profil">Image: <a href="https://www.flickr.com/photos/mattphotos/albums/72157602414559008" target="_blank">Matthew Hunt</a></span><br>
+            <br>
+            <br>
+	        <h3 class="caption">England Guides</h3><br>
+	        <br>
+            <a href="https://www.visitengland.com/"  target="_blank">Visit England</a><br>
+The official tourist board for England, a visitors guide to the largest and most southern part of Great Britain. <br>
+<br>
+<b>City Guide</b><br>
+<a href="http://www.london.gov.uk/"  target="_blank">Mayor of London, the London 
+Assembly and the Greater London Authority</a> <br>
+The Official Site for London, Capital of the United Kingdom. <br>
+<br>
+<a href="http://www.visitlondon.com/"  target="_blank">London</a><br>
+The London visitors guide. <br>
+<br>
+<a href="http://www.isleofavalon.co.uk/"  target="_blank">Isle of Avalon - Glastonbury</a><br>
+An inspirational guide to what's special about Glastonbury.<br>
+<a href="http://www.visitbrighton.com/"  target="_blank">Brighton and Hove</a><br>
+Brighton and Hove visitors guide.<br>
+<a href="http://www.visitnorthumbria.com/"  target="_blank">Northumbria Tourist 
+Board</a><br>
+Visitors guide to Northumbria, covers the counties of Durham, Northumberland, 
+Tyne and Wear and the Tees Valley area.<br>
+<a href="http://www.shakespeare-country.co.uk/"  target="_blank">Shakespeare Country</a><br>
+South Warwickshire Tourism visitors guide to Historic Warwick, Kenilworth, Royal 
+Leamington Spa, Stratford-upon-Avon and aurrounding area<br>
+<a href="http://www.visitsomerset.co.uk/"  target="_blank">Visit Somerset</a><br>
+Somerset visitors guide.<br>
+<a href="http://www.visitsoutheastengland.com/"  target="_blank">South East England</a><br>
+The Beautiful South.<br>
+<a href="http://www.yorkshirevisitor.com/"  target="_blank">Yorkshire Tourist Board</a><br>
+Welcome to Yorkshire.<br>
+	        &nbsp;</div>
+	      <br>
+	      &nbsp; </div>
+      </div>
+</div>
+	<div class="wrap" id="Information">
+      <div class="rap">
+        <div style="background-color:#F9F9F9"><br>
+     	  <div class="lcontent dix2"><span class="caption"><br>
+     	    Additional Information</span><br>
+     	    <br>
+     	    <br>
+            Selected country profiles of the United Kingdom published by international organizations.<br>
+            <br>
+            <br>
+            <div class="ttad"><span class="profil">Advertisement</span><br>  <!-- flexad1 -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7193398479241689"
+     data-ad-slot="9606769192"
+     data-ad-format="auto"></ins>
+  <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script><br>
+            </div>
+            <a href="https://www.amnesty.org/en/countries/europe-and-central-asia/united-kingdom/" target="_blank">Amnesty International: United Kingdom</a><br>
+            Amnesty International is a non-governmental organization focused on human rights. <br>
+            <br>
+            <a href="https://www.bbc.com/news/world-europe-18023389" target="_blank">BBC Country Profile: United Kingdom</a><br>
+            Country profiles by the British public service broadcaster.<br>
+            <br>
+            <a href="https://thecommonwealth.org/our-member-countries/united-kingdom" title="The Commonwealth Member countries: United Kingdom" target="_blank">The Commonwealth: United Kingdom</a><br>
+The Commonwealth Member countries: United Kingdom<br>
+<br>
+            <a href="http://www.fao.org/countryprofiles/index/en/?iso3=GBR" target="_blank">FAO: United Kingdom </a><br>
+            The Food and Agriculture Organization (FAO) is a UN agency that leads international efforts to defeat hunger. <br>
+            <br>
+            <a href="https://freedomhouse.org/country/united-kingdom/freedom-world/2020" title="Freedom House: United Kingdom" target="_blank">Freedom House: United Kingdom</a><br>
+			The U.S. government-funded non-profit organization whose goal is to promote liberal democracies worldwide.<br>
+<br>
+            <a href="https://globaledge.msu.edu/countries/united-kingdom" target="_blank">GlobalEDGE: United Kingdom</a><br>
+            United Kingdom ranking by the Global business knowledge portal. <br>
+            <br>
+            <a href="http://www.heritage.org/index/country/unitedkingdom" target="_blank">The Heritage Foundation: United Kingdom</a><br>
+            Index of Economic Freedom by The Heritage Foundation, an American conservative think tank. <br>
+            <br>
+            <a href="https://www.hrw.org/europe/central-asia/united-kingdom" target="_blank">Human Rights Watch: United Kingdom</a><br>
+            HRW conducts research and advocacy on human rights. <br>
+            <br>
+            <a href="https://oec.world/en/profile/country/gbr/" title="The Observatory of Economic Complexity (OEC) about the economy of the United Kingdom" target="_blank">OEC: United Kingdom</a><br>
+            The Observatory of Economic Complexity provides the latest international trade data. <br>
+            <br>
+            <a href="https://rsf.org/en/united-kingdom" target="_blank">Reporters Without Borders: United Kindom</a><br>
+            RSF (Reporters sans frontières) is an international NGO that defends and promotes media freedom. <br>
+            <br>
+            <a href="https://en.wikipedia.org/wiki/United_Kingdom" target="_blank">Wikipedia: United Kingdom</a><br>
+            Wikipedia's United Kingdom page in many languages. <br>
+            <br>
+            <a href="https://data.worldbank.org/country/united-kingdom" target="_blank">Worldbank Data: United Kingdom</a> <br>
+            World Development Indicators database. <br>
+            <br>
+            <a href="https://www.cia.gov/the-world-factbook/countries/united-kingdom/" title="The World Factbook about United Kingdom" target="_blank">The World Factbook -- United Kingdom</a><br>
+            CIA World Factbook United Kingdom Page. <br>
+&nbsp;</div>
+			<br>&nbsp;
+	    </div>
+      </div>
+    </div>
+<div class="wrap">
+  <div class="row">
+      <div><br>
+<ins class="adsbygoogle"
+   style="display:block"
+   data-ad-client="ca-pub-7193398479241689"
+   data-ad-slot="8366988194"
+   data-matched-content-rows-num="1"
+   data-matched-content-columns-num="4"
+   data-matched-content-ui-type="image_stacked"
+   data-ad-format="autorelaxed"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script><br><br>
+&nbsp; <br>
+      </div>
+</div>
+</div>
+<div class="wrap">
+<div class="footblu">British Overseas Territories<br>
+<a href="anguilla.htm">Anguilla</a>, <a href="bermuda.htm">Bermuda</a>, <a href="virgin_islands_british.htm">British 
+Virgin Islands</a>, Cayman Islands, <a href="montserrat.htm">Montserrat</a>, Gibraltar, 
+Turks and Caicos Islands, Falkland Islands (Malvinas), Saint Helena, <a href="pitcairn.htm">Pitcairn&nbsp;Islands</a> <br>
+<br>
+Other Countries and Regions of Northern Europe:<br>
+<a href="denmark.htm">Denmark</a> | <a href="estonia.htm">Estonia</a> | <a href="faroe_islands.htm">Faroe 
+Islands</a> | <a href="finland.htm">Finland</a> | <a href="greenland.htm">Greenland</a> | <a href="iceland.htm">Iceland</a> | <a href="ireland.htm">Ireland</a> | <a href="latvia.htm">Latvia</a> | <a href="lithuania.htm">Lithuania</a> | <a href="norway.htm">Norway</a> | <a href="northern_ireland.htm">Northern&nbsp;Ireland</a> | <a href="sweden.htm">Sweden</a> | <a href="scotland.htm">Scotland</a> | <a href="wales.htm">Wales</a><br>
+<br>
+Major Cities in Northern Europe<br>
+<a href="map/google_map_Belfast.htm">Belfast</a> | <a href="map/google_map_Birmingham.htm">Birmingham</a> | <a href="map/google_map_Bremen.htm">Bremen</a> | <a href="map/google_map_Cardiff.htm">Cardiff</a> | <a href="map/google_map_Copenhagen.htm">Copenhagen</a> | <a href="map/google_map_Dublin.htm">Dublin</a> | <a href="map/google_map_Edinburgh.htm">Edinburgh</a> | <a href="map/google_map_Glasgow.htm">Glasgow</a> | <a href="map/google_map_Hamburg.htm">Hamburg</a> | <a href="map/google_map_Helsinki.htm">Helsinki</a> | 
+<a href="map/google_map_Kiel.htm">Kiel</a> | <a href="map/google_map_Liverpool.htm">Liverpool</a> | <a href="map/google_map_London.htm">London</a> | <a href="map/google_map_Malmo.htm">Malmö</a> | <a href="map/google_map_Manchester.htm">Manchester</a> | <a href="map/google_map_Nuuk.htm">Nuuk</a> | <a href="map/google_map_Oslo.htm">Oslo</a> | <a href="map/google_map_Reykjavik.htm">Reykjavik</a> | <a href="map/google_map_Riga.htm">Riga</a> | <a href="map/google_map_Saint-Petersburg.htm">Saint&nbsp;Petersburg</a> | 
+<a href="map/google_map_Stockholm.htm">Stockholm</a> | <span class="tdx"><a href="map/google_map_Tallinn.htm">Tallinn</a></span> | <a href="map/google_map_Vilnius.htm">Vilnius</a><br>
+</div>
+</div>
+<!--footer-->
+  <div class="wrap">
+  <div class="row">
+    <div class="footer">
+<strong>One World - Nations Online </strong><br>
+<br>
+      More Signal - Less Noise<br>
+      <br>&nbsp;
+  </div>
+  </div>
+</div>
+<div class="wrap">
+  <div class="footer"><a href="/oneworld/sitemap.htm">Site Map</a> 
+    | <a href="/oneworld/information_sources.html">Information Sources</a> | <a href="/oneworld/disclaimer.htm">Disclaimer </a>| Copyright &copy; 1998-2024 <b>::</b> nationsonline.org
+</div>
+</div>
+      <!--gogl custom search scrpt-->
+<script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+<!--end gogl custom search scrpt-->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script src="/oneworld/Script/topnav.js"></script>
+<script src="/oneworld/Script/showme.js"></script>
+<script src="/oneworld/Script/go-top-button.js"></script>
+</body>
+</html>

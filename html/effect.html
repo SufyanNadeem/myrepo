@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="jquery/jquery-3.7.1.min.js">
+    <style>
+        #panel,
+        #flip{
+            padding: 5px;
+            font-size: 18px;
+            text-align: center;
+            background-color: #555;
+            color: white;
+            border: solid 1px #666;
+            border-radius: 3px;
+            margin-top: 10px;
+        }
+        #panel{
+            padding: 50px;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <button id="animation">animate</button>
+    <div style="background:#f12a07;height:100px;width:100px;position:absolute;" id="mydiv">
+
+    </div>
+    <br>
+    <button id="stop" style="margin-top: 150px;">stop sliding</button>
+    <div id="flip">click the slide down panel</div>
+    <div id="panel">hello world</div>
+    
+</body>
+<script>
+    $(document).ready(function (){
+        $("#animation").click(function () {
+            $("#mydiv").animate({
+                left: '300px',
+                height: '200px',
+                width: '200px',
+                opacity: '0.7'
+            })
+        });
+    $("#flip").click(function (){
+        $("#panel").slideToggle(4000);
+    });
+    $("#stop").click(function (){
+        $("#panel").stop();
+    })
+    });
+</script>
+    
+
+</html>

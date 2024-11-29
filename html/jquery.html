@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="jquery/jquery-3.7.1.min.js"></script>
+</head>
+<body>
+    <img src="images/benz g63.webp" id="img" width="400px" height="300px" alt="">
+    <br>
+    <button id="hide">hide</button>
+    <button id="show">show</button>
+    <br>
+    <img src="images/bolan.jpg" id="img2" width="400px" height="300px" alt="">
+    <button id="fadeIn">fadeIn</button>
+    <button id="fadeOut">fadeOut</button>
+    <p>car colour is white</p>
+    <p>car name is benz G63</p>
+</body>
+<script>
+    $(document).ready(function (){
+        $("#hide").click(function (){
+            $('#img').hide();
+        })
+        $('#show').click(function (){
+            $('#img').show();
+        })
+    });
+$(document).ready(function (){
+    $('#fadeIn').click(function (){
+        $("#img2").fadeIn();
+    })
+    $('#fadeOut').click(function (){
+        $('#img2').fadeOut();
+    });
+
+
+    
+})
+    
+
+
+</script>
+</html>

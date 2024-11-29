@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2048 Game</title>
+    <style>
+        * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #faf8ef;
+}
+
+.game-container {
+    text-align: center;
+    width: 400px;
+    height: 500px;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.board {
+    display: grid;
+    grid-template-columns: repeat(4, 100px);
+    grid-template-rows: repeat(4, 100px);
+    gap: 10px;
+    margin: 20px auto;
+    width: 440px;
+    height: 440px;
+    background-color: #bbada0;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.cell {
+    width: 100px;
+    height: 100px;
+    background-color: #ccc0b3;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    color: #776e65;
+}
+
+.cell-2 {
+    background-color: #eee4da;
+    color: #776e65;
+}
+
+.cell-4 {
+    background-color: #ede0c8;
+    color: #776e65;
+}
+
+.cell-8 {
+    background-color: #f2b179;
+    color: white;
+}
+
+.cell-16 {
+    background-color: #f59563;
+    color: white;
+}
+
+.cell-32 {
+    background-color: #f67c5f;
+    color: white;
+}
+
+.cell-64 {
+    background-color: #f65e3b;
+    color: white;
+}
+
+.cell-128 {
+    background-color: #edcf72;
+    color: white;
+}
+
+.cell-256 {
+    background-color: #edcc61;
+    color: white;
+}
+
+.cell-512 {
+    background-color: #edc850;
+    color: white;
+}
+
+.cell-1024 {
+    background-color: #edc53f;
+    color: white;
+}
+
+.cell-2048 {
+    background-color: #edc22e;
+    color: white;
+}
+
+.game-over {
+    display: none;
+    font-size: 1.5rem;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 15px 30px;
+    border-radius: 10px;
+}
+
+#score {
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+
+    </style>
+</head>
+<body>
+    <div class="game-container">
+        <h1>2048</h1>
+        <div class="board" id="board">
+            <!-- Grid will be dynamically created using JavaScript -->
+        </div>
+        <div class="game-over" id="game-over">
+            <p>Game Over! Press "R" to Restart</p>
+        </div>
+        <p id="score">Score: 0</p>
+    </div>
+
+    
+</body>
+<script src="mubashir.js">
+    const canvas = document.getElementById('gameCanvas');
+const ctx = canvas.getContext('2d');
+
+// Game variables
+const gridSize = 20; // Snake grid size
+const canvasSize = 400; // Size of the canvas
+let snake = [{ x: 160, y: 160 }]; // Initial snake position (middle of canvas)
+let direction = 'RIGHT'; // Initial direction
+let food = generateFood();
+let score = 0;
+
+// Event listener for controlling the snake with arrow keys
+document.addEventListener('keydown', changeDirection);
+
+// Function to update game state
+function update() {
+    moveSnake();
+    checkCollisions();
+    checkFoodCollision();
+    drawGame();
+}
+
+// Function to move the snake
+function moveSnake() {
+    const head = { ...snake[0] };
+
+    if (direction === 'RIGHT') head.x += gridSize;
+    if (direction === 'LEFT') head.x -= gridSize;
+    if (direction === 'UP') head.y -= gridSize;
+    if (direction === 'DOWN') head.y += gridSize;
+
+    // Add the new head to the front of the snake array
+    snake.unshift(head);
+
+    // Remove the last segment if no food is eaten
+    if (head.x !== food.x || head.y !== food.y) {
+        snake.pop();
+    }
+}
+
+// Function to check if the snake has collided with the walls or itself
+function checkCollisions() {
+    const head = snake[0];
+
+    // Check wall collisions
+    if (head.x < 0 || head.x >= canvasSize || head.y < 0 || head.y >= canvasSize) {
+        gameOver();
+    }
+
+    // Check snake collisions with itself
+    for (let i = 1; i < snake.length; i++) {
+        if (head.x === snake[i].x && head.y === snake[i].y) {
+            gameOver();
+        }
+    }
+}
+
+// Function to check if the snake has eaten food
+function checkFoodCollision() {
+    const head = snake[0];
+    if (head.x === food.x && head.y === food.y) {
+        score++;
+        food = generateFood(); // Generate new food
+    }
+}
+
+// Function to generate random food location
+function generateFood() {
+    const x = Math.floor(Math.random() * (canvasSize / gridSize)) * gridSize;
+    const y = Math.floor(Math.random() * (canvasSize / gridSize)) * gridSize;
+    return { x, y };
+}
+
+// Function to change the snake's direction based on key press
+function changeDirection(event) {
+    if (event.key === 'ArrowUp' && direction !== 'DOWN') {
+        direction = 'UP';
+    } else if (event.key === 'ArrowDown' && direction !== 'UP') {
+        direction = 'DOWN';
+    } else if (event.key === 'ArrowLeft' && direction !== 'RIGHT') {
+        direction = 'LEFT';
+    } else if (event.key === 'ArrowRight' && direction !== 'LEFT') {
+        direction = 'RIGHT';
+    }
+}
+
+// Function to draw everything on the canvas
+function drawGame() {
+    // Clear canvas
+    ctx.clearRect(0, 0, canvasSize, canvasSize);
+
+    // Draw the snake
+    snake.forEach(segment => {
+        ctx.fillStyle = '#00FF00'; // Green color for snake
+        ctx.fillRect(segment.x, segment.y, gridSize, gridSize);
+    });
+
+    // Draw the food
+    ctx.fillStyle = '#FF0000'; // Red color for food
+    ctx.fillRect(food.x, food.y, gridSize, gridSize);
+
+    // Draw the score
+    ctx.fillStyle = '#000000'; // Black color for score text
+    ctx.font = '16px Arial';
+    ctx.fillText('Score: ' + score, 10, 20);
+}
+
+// Function to end the game
+function gameOver() {
+    clearInterval(gameInterval); // Stop the game loop
+    alert('Game Over! Your score was ' + score);
+}
+
+// Game loop
+const gameInterval = setInterval(update, 100); // Update every 100ms
+</script>
+</html>

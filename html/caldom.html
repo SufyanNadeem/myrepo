@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .main{
+            display: inline-block;
+            border: 3px solid black;
+            padding: 20px;
+            margin-top: 30px;
+        }
+        .main label,input{
+            margin: 5px;
+            font-size: 14px;
+        }
+        .main button{
+            border-radius: 20%;
+            padding: 10px 20px;
+            font-size: 16px;
+            margin-top: 10px;
+            background-color: #2177d3;
+            color: white;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+    <center>
+        <div class="main">
+            <h1> Basic Calculator</h1>
+            <label>Number 1 : </label>
+            <input type="number" id="num1" placeholder="Enter number here">
+            <br>
+            <label">Number 2 : </label>
+            <input type="number" id="num2" placeholder="Enter number here">
+            <br>
+            <label>option : </label>
+            <select  id="option">
+                <option selected disabled>----select---</option>
+                <option>+</option>
+                <option>-</option>
+                <option>x</option>
+                <option>÷</option>
+            </select>
+            <br>
+            <button onclick="cal()">calculate</button>
+            <br>
+            <h1 id="result"></h1>
+        </div>
+    </center>
+    
+</body>
+<script>
+    function cal()
+    {
+        var n1 = parseFloat(document.getElementById("num1").value);
+        var n2 = parseFloat(document.getElementById("num2").value);
+        var opt = document.getElementById("option").value;
+        var res = document.getElementById("result");
+
+        if(opt == "+")
+        {
+            res.innerHTML = "Addition of number are : " + (num1+num2);
+        }
+
+        if(opt == "-")
+        {
+            res.innerHTML = "subtraction of number are : " + (num1-num2);
+        }
+        if(opt == "x")
+        {
+            res.innerHTML = "multiplication of number are : " + (num1*num2);
+        }
+        if(opt == "÷")
+        {
+            res.innerHTML = "divison of number are : " + (num1/num2);
+        }
+
+    }
+</script>
+</html>
