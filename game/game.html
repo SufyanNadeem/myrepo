@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Maze Game</title>
+  <style>
+    * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f4f4f4;
+}
+
+#game-container {
+  text-align: center;
+}
+
+#maze-container {
+  display: grid;
+  grid-template-columns: repeat(10, 40px);
+  grid-template-rows: repeat(10, 40px);
+  gap: 1px;
+  margin: 20px auto;
+}
+
+.cell {
+  width: 40px;
+  height: 40px;
+  background-color: #ccc;
+  border: 1px solid #888;
+}
+
+.wall {
+  background-color: #333;
+}
+
+.player {
+  background-color: blue;
+}
+
+.exit {
+  background-color: green;
+}
+
+#status {
+  margin-top: 20px;
+  font-size: 1.2rem;
+}
+  </style>
+</head>
+<body>
+  <div id="game-container">
+    <h1>Maze Game</h1>
+    <div id="maze-container"></div>
+    <p id="status">Use arrow keys to navigate the maze. Reach the exit to win!</p>
+  </div>
+
+
+</body>
+<script>
+    // Maze size and dimensions
+const mazeWidth = 10;
+const mazeHeight = 10;
+const mazeContainer = document.getElementById('maze-container');
+const statusText = document.getElementById('status');
+
+// Directions for moving (up, down, left, right)
+const directions = {
+  ArrowUp: { dx: 0, dy: -1 },
+  ArrowDown: { dx: 0, dy: 1 },
+  ArrowLeft: { dx: -1, dy: 0 },
+  ArrowRight: { dx: 1, dy: 0 },
+};
+
+// Game state variables
+let maze = [];
+let playerPosition = { x: 0, y: 0 };
+let exitPosition = { x: mazeWidth - 1, y: mazeHeight - 1 };
+
+// Generate maze function
+function generateMaze() {
+  maze = [];
+  for (let y = 0; y < mazeHeight; y++) {
+    maze[y] = [];
+    for (let x = 0; x < mazeWidth; x++) {
+      // Randomly generate walls or empty spaces (50% chance for each)
+      maze[y][x] = Math.random() < 0.3 ? 'wall' : 'empty';
+    }
+  }
+  
+  // Ensure the player and exit are placed in valid locations
+  maze[0][0] = 'empty';  // Starting point
+  maze[mazeHeight - 1][mazeWidth - 1] = 'exit';  // Exit point
+
+  renderMaze();
+}
+
+// Render the maze on the screen
+function renderMaze() {
+  mazeContainer.innerHTML = '';  // Clear previous maze
+
+  for (let y = 0; y < mazeHeight; y++) {
+    for (let x = 0; x < mazeWidth; x++) {
+      const cell = document.createElement('div');
+      cell.classList.add('cell');
+      if (maze[y][x] === 'wall') {
+        cell.classList.add('wall');
+      }
+      if (maze[y][x] === 'exit') {
+        cell.classList.add('exit');
+      }
+
+      // Place the player in the maze
+      if (x === playerPosition.x && y === playerPosition.y) {
+        cell.classList.add('player');
+      }
+
+      mazeContainer.appendChild(cell);
+    }
+  }
+}
+
+// Move the player
+function movePlayer(direction) {
+  const newX = playerPosition.x + directions[direction].dx;
+  const newY = playerPosition.y + directions[direction].dy;
+
+  // Check if the new position is within bounds and not a wall
+  if (
+    newX >= 0 &&
+    newX < mazeWidth &&
+    newY >= 0 &&
+    newY < mazeHeight &&
+    maze[newY][newX] !== 'wall'
+  ) {
+    playerPosition.x = newX;
+    playerPosition.y = newY;
+
+    // Check if the player reached the exit
+    if (playerPosition.x === exitPosition.x && playerPosition.y === exitPosition.y) {
+      statusText.textContent = 'You reached the exit! You win!';
+    }
+
+    renderMaze();  // Re-render the maze after moving
+  }
+}
+
+// Set up event listeners for player movement
+document.addEventListener('keydown', (e) => {
+  if (statusText.textContent === 'You reached the exit! You win!') {
+    return;  // Don't allow movement after the game is won
+  }
+
+  if (e.key in directions) {
+    movePlayer(e.key);
+  }
+});
+
+// Initialize the game
+generateMaze();
+</script>
+</html>
